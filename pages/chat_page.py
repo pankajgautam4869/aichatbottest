@@ -94,7 +94,7 @@ class ChatPage(BasePage):
             expect(self.page.locator(self.input_selector)).to_be_enabled()
             
             # Additional wait for any animations
-            time.sleep(1)
+            time.sleep(3)
             
             self.logger.info("Chat widget loaded successfully")
             return True
