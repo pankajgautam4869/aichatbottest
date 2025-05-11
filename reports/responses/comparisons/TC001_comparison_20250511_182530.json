@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_182530",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "So, there is no single Prime Minister of the UAE, as it is a federation with seven separate rulers."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "تعتمد حكومة الإمارات العربية المتحدة على نظام مركزي للاجتماع الحكومات المحلية، ويتم تعيين وزيرين لمساعدة الحكومة المركزية في تنفيذها."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7777777777777777
+    }
+  }
+}

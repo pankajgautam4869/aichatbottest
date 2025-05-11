@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250509_235329",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The United Arab Emirates (UAE) was established on December 2, 1971. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات العربية المتحدة في 2 ديسمبر 1971، بعد انضمام السبع دول التي تشكلها الأبرز أنشطة الإمارة إلى دولة متحدة تحت اسم الإمارات العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6466666666666666
+    }
+  }
+}

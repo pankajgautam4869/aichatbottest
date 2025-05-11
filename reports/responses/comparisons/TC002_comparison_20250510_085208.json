@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_085208",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The UAE was officially recognized by the international community on January 9, 1972. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "في عام 1971، عقب الاقتراع على خسارة الوقود الكافي للتعرض للتحول الاقتصادي في العالم، قررت الإمارات الثلاث السابقة (دبي، الشارقة، Ajman) انها تتحد مع أبوظبى لتشكيل دولة الاتحاد. وقامت الإمارات الأربع الباقية (عُمان القبيلة، راس الخيمة، ألماطي، والقضيرة) بتعزيز علاقاتها مع دول الخليج الأخرى في 5 يونيو 1971.\nوفي 2 ديسمبر 1971، تمت organisatiotheme seven الإمارات في الاتحاد من خلال التوقيع على الدستور الفيدرالي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.39999999999999997
+    },
+    "information_consistency": {
+      "score": 0.3333333333333333
+    },
+    "structure_similarity": {
+      "score": 0.4010416666666667
+    }
+  }
+}

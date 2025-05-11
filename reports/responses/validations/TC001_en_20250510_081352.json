@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250510_081352",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The current Prime Minister of the UAE is Sheikh Mohammed bin Rashid Al Maktoum, who is also the Vice President and Ruler of Dubai. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 1.0
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 1.0
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

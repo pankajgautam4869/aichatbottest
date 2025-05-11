@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_232511",
+  "english": {
+    "query": "What are the major mountain ranges in Asia?",
+    "response": "These are just a few of the major mountain ranges in Asia, but there are many other smaller and lesser-known ranges throughout the continent. "
+  },
+  "arabic": {
+    "query": "ما هي سلاسل الجبال الرئيسية في آسيا؟",
+    "response": "هذه بعض من السلاسل الجبلية الرئيسية في آسيا، ولكن هناك العديد من المجموعات الأقل شهرةThroughout "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.3125
+    }
+  }
+}

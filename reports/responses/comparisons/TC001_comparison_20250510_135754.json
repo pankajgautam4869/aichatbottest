@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_135754",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "However, the UAE has a federal government, which is headed by the President of the United Arab Emirates (UAE), who is currently Sheikh Mohamed bin Zayed Al Nahyan. The UAE's Prime Minister position does not exist at the federal level. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لكن، من أبرز المسؤولين الحكومية في الإمارات هو: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.2333333333333333
+    }
+  }
+}

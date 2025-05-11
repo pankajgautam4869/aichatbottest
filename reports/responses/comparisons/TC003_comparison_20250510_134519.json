@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_134519",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi is also home to many other attractions, including beaches, parks, and traditional souks (markets). It's a great place to visit for both locals and tourists alike! "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظبي هي أيضاً موطن لأدوات رياضية متقدمة، بما في ذلك حديقة Yas Marina، التي تستضيف بطولات Formula 1. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.44761904761904764
+    }
+  }
+}

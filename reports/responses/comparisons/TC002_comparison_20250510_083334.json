@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_083334",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Since then, the UAE has grown and developed into a modern, prosperous nation with a strong economy and rich culture. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "أطلقت الدولة على herself باسم \"الاتحاد العربي\"، والذي يُعرف حاليًا بالدولة العربية المتحدة، أو simply UAE. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7111111111111111
+    }
+  }
+}

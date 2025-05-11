@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_085154",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Each Emir has their own government and Cabinet, but they are all part of the federal government led by the President and Vice President. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لن أستطيع تقديم معلومات دقيقة عن رئيس الوزراء في الإمارات العربية المتحدة، نظراً لأن هذه الوظيفة لا توجد في نظام الحكم هناك. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.8055555555555555
+    }
+  }
+}

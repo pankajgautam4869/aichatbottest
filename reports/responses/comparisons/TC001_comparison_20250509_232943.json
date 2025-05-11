@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_232943",
+  "english": {
+    "query": "What are the major mountain ranges in Asia?",
+    "response": "These are just a few of the major mountain ranges in Asia. There are many other smaller ranges and peaks throughout the continent. "
+  },
+  "arabic": {
+    "query": "ما هي سلاسل الجبال الرئيسية في آسيا؟",
+    "response": "تشكل هذه السلاسل الجبلية جزءًا مهم من الهيكل الجيولوجي للأسيا، وقد شكلت من خلال التأثيرات الإشعاعية والقوات الأرضية والتراث الجيولوجي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.6847826086956521
+    }
+  }
+}

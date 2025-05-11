@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_142930",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The current Prime Minister of the United Arab Emirates (UAE) is Abdullah bin Zayed Al Nahyan. However, please note that the UAE does not have a traditional prime ministerial position. Instead, it has a cabinet system where various ministers are responsible for different portfolios.\nAbdullah bin Zayed Al Nahyan serves as the Deputy Ruler of Abu Dhabi and the Minister of Defense, among other positions. The UAE is a federation of seven emirates, each with its own ruler (Emir), and there is no single prime minister position that oversees the entire country.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 0.3333333333333333
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.39999999999999997
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

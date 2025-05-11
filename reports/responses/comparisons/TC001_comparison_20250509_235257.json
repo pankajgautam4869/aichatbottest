@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_235257",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "It's worth noting that the UAE has a presidential system, with the President serving as the head of state and government. The President is advised by a Council of Ministers, which includes ministers responsible for various portfolios, but there is no single Prime Minister. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "في الواقع، لا توجد قمة وزراء في الإمارات العربية المتحدة، حيث يتم توزيع القادة السياسيين على الرؤساء الموجودة في السلطة المحلية وبالتالي، لا توجد شخصية أساسية للسياسة البرلمانية في البلاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.46060606060606063
+    }
+  }
+}

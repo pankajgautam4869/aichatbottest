@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250509_235001",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi has been the capital of the UAE since its establishment in 1971, and it serves as the seat of government, parliament, and many national institutions. The city is also a major hub for business, tourism, and culture in the region. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظبى أصبحت عاصمة الإمارات العربية المتحدة منذ تأسيسها في عام 1971، وتصدر أبوظبى كمركز لخدمات الحكومة والبرلمان والحوكومات المحلية، مع أن دبي تكون مركزة إقليمية للعاصمة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.42063492063492064
+    }
+  }
+}

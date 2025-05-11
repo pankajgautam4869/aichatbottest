@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_134451",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "So, to clarify, there is no \"Prime Minister\" of the UAE in the classical sense. Instead, the President serves as the head of government, while each emirate has its own ruler who holds significant powers within their respective territories. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "كما أن الأشخاص الذين يعملون في هذا المجال هما رؤساء القطاع السري الإستراتيجي في دول الإمارات العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.37606837606837606
+    }
+  }
+}

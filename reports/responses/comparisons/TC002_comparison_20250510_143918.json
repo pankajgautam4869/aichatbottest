@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_143918",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The seven emirates signed a treaty on December 2, 1971, declaring their independence from the United Kingdom and forming the United Arab Emirates as a sovereign state. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "والتوقيع على اتفاقية الاستقلال بين السبع إمارات في 2 ديسمبر 1971 أعلنوا استقلالهم من المملكة المتحدة وformation دولة الاتحاد العربية المتحدة كدولة Sovereign. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7283950617283951
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_232627",
+  "english": {
+    "query": "What are the major mountain ranges in Asia?",
+    "response": "These are some of the major mountain ranges in Asia, but there are many others, including smaller ranges like the Hindu Kush, Kokshaal Mountains, and Altai Range. "
+  },
+  "arabic": {
+    "query": "ما هي سلاسل الجبال الرئيسية في آسيا؟",
+    "response": "هذه بعض السلاسل الجبلية الرئيسية في آسيا، ولكن هناك العديد من السلاسل الجبلية الأخرى، مثل سلاسل الجبال الصغيرة مثل جبال الهندوس ، وكوكشال ، وفي Altai Range. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.8666666666666667
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6
+    }
+  }
+}

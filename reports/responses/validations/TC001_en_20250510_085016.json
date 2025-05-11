@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250510_085016",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The current President of the UAE is Sheikh Mohammed bin Zayed Al Nahyan, who has been in office since 2004. The Council of Ministers is headed by the Vice-President and Prime Minister of the UAE, which is currently Sheikh Mohammed's son, Sheikh Mohamed bin Zayed Al Nahyan (also known as MBZ). ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.3333333333333333
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.8
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

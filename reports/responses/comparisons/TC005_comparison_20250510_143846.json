@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250510_143846",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "However, I should note that 2018 is also notable for being a significant year for the UAE's presidency, as Sheikh Mohamed bin Zayed Al Nahyan took over as the President of the United Arab Emirates in December 2022. But in 2018, it was still Sheikh Khalifa bin Zayed Al Nahyan who was the President of the UAE until his abdication in favor of Sheikh Mohammed. "
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "أما بالنسبة لشؤون الإمارات العربية المتحدة، كانت هيجازة محمد بن زايد (Mohamed bin Zayed Al Nahyan) كان رئيسًا للولايات المتحدة في عام 2018، ولكن في عام 2022 وازعت presidency الإمارات العربية المتحدة من قبل محمد بن زايد himself. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7166666666666666
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.42820512820512824
+    }
+  }
+}

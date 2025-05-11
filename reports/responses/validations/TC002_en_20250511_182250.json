@@ -1,0 +1,24 @@
+{
+  "test_id": "TC002",
+  "language": "en",
+  "timestamp": "20250511_182250",
+  "query": "When was UAE established?",
+  "response": "The United Arab Emirates (UAE) does not have a traditional prime minister. Instead, it has a president who serves as the head of state and government. The current President of the UAE is Sheikh Mohamed bin Zayed Al Nahyan.\nHowever, the UAE does have a Prime Ministerial-style role called the \"Prime Minister\" but this post was created in 2022. Mohammed Mubarak Al Qasimi has been serving as the Prime Minister of the UAE since March 6, 2023.\nThe United Arab Emirates (UAE) was formed on December 2, 1971, when seven emirates declared independence from the United Kingdom and joined together to form a single country. The seven emirates that make up the UAE are:\nThe formation of the UAE was led by Sheikh Zayed bin Sultan Al Nahyan, who became the country's first president.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 0.6666666666666666
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.19999999999999998
+    },
+    "language_specific": {
+      "score": 0.6036175710594315
+    }
+  }
+}

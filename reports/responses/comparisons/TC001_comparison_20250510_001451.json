@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_001451",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Each of these rulers has a cabinet and is responsible for the governance of their respective emirates. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لا يوجد رئيس وزراء في الإمارات العربية المتحدة (UAE). كيانات الحكومة تعمل بقيادة الخليفة أو السلطان للولاية، والذي هو رuler (سلطات) لاتحاد الإمارات العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.56
+    }
+  }
+}

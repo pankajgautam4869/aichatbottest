@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_143242",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "In 2022, Sheikh Mohammed bin Zayed Al Nahyan became the President of the UAE, and Sheikh Hamdan bin Mohammed Al Maktoum stepped down as Prime Minister. Since then, there is no formal Prime Minister position in the UAE government. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لذا ، لا توجد إجابة على سؤال \"من هو رئيس الوزراء في الإمارات العربية المتحدة\" لأنها دولة لم تكن لديها نظام حكومي مملوك للوزراء. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.43846153846153846
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_075448",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "These Emirs have varying levels of authority and powers, but they all report to the President of the UAE, who is currently Sheikh Mohamed bin Zayed Al Nahyan. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "أيًا أن كل إمارة لها حاكم منفرد، فيما يلي قائمة بكل إمارة ومديرها:  "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.48809523809523814
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_141459",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "So, while there isn't a single Prime Minister of the UAE, Sheikh Mohammed bin Zayed Al Nahyan (Ruler of Abu Dhabi) plays a significant role in shaping the country's policies and direction. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "أما الإمام (رئيس الحكومة) للبلاد فهو يعتبر President of the UAE, الذي يشغل منصب الرئيس الحالي هو Sheikh Mohamed bin Zayed Al Nahyan. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7951388888888888
+    }
+  }
+}

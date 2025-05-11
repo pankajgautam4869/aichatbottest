@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_140646",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "It looks like you started to ask a question, but it got cut off. Can you please complete your question? Who are you asking about?",
+  "validation_results": {
+    "clarity": {
+      "score": 0.0
+    },
+    "hallucination": {
+      "score": 0.0
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.4
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

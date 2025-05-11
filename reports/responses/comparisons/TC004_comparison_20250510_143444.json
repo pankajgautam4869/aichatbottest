@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_143444",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Here are some indicators of the UAE's democratic status: "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "هذه هي بعض العوامل التي تقدم لصحة سياسيّ للعمان : "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.9666666666666667
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_082237",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "So, while there is no one \"official\" capital of the UAE (as some countries have multiple cities with different roles), Abu Dhabi is widely recognized as the country's administrative and economic center. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أما بالرغم من أن دبي هي المدينة التي تعتبر أكثر إشكالية وإثارة في مدينة الإمارات، فإن أبوظبى تعتبر عاصمة الإمارات العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.673611111111111
+    }
+  }
+}

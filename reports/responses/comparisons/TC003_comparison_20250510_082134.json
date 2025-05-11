@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_082134",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "While Dubai is a major city and a hub for business, tourism, and innovation, Abu Dhabi holds the title of capital and serves as the seat of power for the UAE government. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "في حين يعتبر دبي مدينة كبيرة وممركزًا للاعمال والسياحة والإبداع، فهي تُستلم titled عاصمة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5625
+    }
+  }
+}

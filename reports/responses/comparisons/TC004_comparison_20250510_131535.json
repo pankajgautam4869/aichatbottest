@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_131535",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Despite these efforts, the UAE's political system remains highly centralized and authoritarian, with the President holding significant power over the government and its policies. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "علاوة على ذلك، إجراء بعض التحسينات في السنوات الأخيرة لمواجهة الشكوك المتعلقة بالمدرسة التعليمية للسياسة، حيث تتمتع هذه البلاد بتركيبة اجتماعية شبه متوازنة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.763888888888889
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_141359",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "However, it's worth noting that the UAE has undergone several changes over the years, including: "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "although however, worth mentioning that the UAE has undergone several changes over the years, including: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 1.0
+    }
+  }
+}

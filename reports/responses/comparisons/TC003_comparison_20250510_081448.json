@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_081448",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi serves as the seat of government for the UAE, with the President's office, the Federal National Council (FNC), and many other government agencies located there. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "تعد أبوظب أيضًا مقر الحكومة العربية ، حيث توجد المكاتب التنفيذية للرئيس و مجلس النواب الاتحادية الإماراتي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6265432098765432
+    }
+  }
+}

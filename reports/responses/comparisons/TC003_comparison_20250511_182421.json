@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250511_182421",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "However, Dubai is often mistaken as the capital of the UAE, due to its status as a global hub for trade, commerce, and tourism. While Dubai is an important city in the UAE, Abu Dhabi remains the country's official capital."
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "على الرغم من أن دبيOften يُخطط على أنها عاصمة الإمارات العربية المتحدة ، إلا أن أبوظبى bleibt العاصمة الحالية."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3726190476190476
+    }
+  }
+}

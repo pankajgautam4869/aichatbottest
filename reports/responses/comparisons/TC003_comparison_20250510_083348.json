@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_083348",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "However, Dubai is often considered the commercial hub of the UAE and is known for its modern architecture, shopping malls, and business centers. It's also a popular tourist destination, with attractions like the Burj Khalifa, the world's tallest building, and the Palm Jumeirah, an artificial island in the shape of a palm tree. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظبي هي المدينة الرئيسية في الإمارات العربية المتحدة وترتبط بها معظم أعمال الدولة. يعتبر الفندق في مبنى البيت الأبيض من أشهر المباني في أبوظبي ويتميز بثلاثة كيانات: عاصمة دولية، مسرحية ثقافية، ومقر للسيادة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6149545772187281
+    }
+  }
+}

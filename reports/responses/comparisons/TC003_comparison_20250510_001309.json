@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_001309",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "In 2022, Abu Dhabi was announced as the permanent site for the United Nations Headquarters' second main hub, in addition to New York City. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "في عام 2022، أعلن أبوظبي أنها موقع دائم لمركز المكاتب العالميsecond للمكتب الرئيسي للجمعية المتحدة للنوادع. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6666666666666666
+    }
+  }
+}

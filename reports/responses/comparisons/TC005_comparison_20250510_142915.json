@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250510_142915",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "If you're thinking of the current or former presidents of the UAE, Sheikh Mohamed bin Zayed Al Nahyan has been the President of the UAE since 2022, and was previously serving as the Crown Prince of Abu Dhabi. "
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "ifكنت تحاول إخبارني عن رئيس الدولة للولايات المتحدة في عام 2018، فكان دونالد ترامب هو الرئيس في ذلك الوقت. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.611111111111111
+    }
+  }
+}

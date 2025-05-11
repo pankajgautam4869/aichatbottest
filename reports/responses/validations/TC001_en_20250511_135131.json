@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_135131",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The United Arab Emirates (UAE) is a federation of seven emirates, and as such, it does not have a single Prime Minister. The UAE is led by a President and a Federal Supreme Council, which includes the leaders of each of the seven emirates.\nThe current President of the UAE is Sheikh Mohamed bin Zayed Al Nahyan (also known as MBZ), who has been in office since 2004.\nEach of the seven emirates in the UAE also has its own ruler (known as an Emir or Sheikh) and a Prime Minister, although these roles are not directly equivalent to those in other countries. The Prime Ministers are appointed by each of the individual rulers and are responsible for implementing their policies and decisions within their respective emirates.\nSome examples of emirates and their leaders include:",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.3333333333333333
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.39999999999999997
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

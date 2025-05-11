@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250511_182442",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Therefore, it would be inaccurate to describe the UAE as a democracy."
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "بالتالي، لا ينبغي أن يُستخدم term ديمقراطية لوصف الإمارات العربية المتحدة"
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6388888888888888
+    }
+  }
+}

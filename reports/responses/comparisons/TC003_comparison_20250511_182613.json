@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250511_182613",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Dubai, on the other hand, is often referred to as the \"business hub\" of the UAE, due to its free zone policies and highly developed infrastructure. However, Abu Dhabi remains the country's capital and the seat of government."
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظباء هي также مركزًا اقتصاديًا قويًا وتجاريًا وتourism. đã أُعدت المدينة بشكل كبير في السنوات الأخيرة، مع إنشاء مشاريع جديدة للتحلية، وإعادة هيكلة المدينة وتطويرها."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6637426900584795
+    }
+  }
+}

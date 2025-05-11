@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_143904",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "However, the UAE also has a Council of Ministers, which is headed by a Prime Minister, but only in a ceremonial capacity. The current Prime Minister of the UAE is Abdullah bin Hassan Al Nuaimi, who serves as the chairman of the Federal National Council and as the prime minister's office's head. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "بالتأكيد، لقد قمت بتقديم المعلومات المحددة من قبل.\nالرئيس التنفيذي الحالي لجنة الحكومة في الإمارات العربية المتحدة هو عبد الله بن حسن النعيم. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5918803418803419
+    }
+  }
+}

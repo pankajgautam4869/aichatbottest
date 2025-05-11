@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_181822",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Please note that the UAE's government structure may have changed since my knowledge cutoff date."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "تسعى الدولة إلى تحقيق توازن بين السطوات السياسية والاقتصادية وتحقيق الأهداف التنموية والاستراتيجية."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.9555555555555556
+    }
+  }
+}

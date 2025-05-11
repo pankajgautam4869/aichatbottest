@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_083951",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "While Dubai is often considered the most popular tourist destination in the UAE due to its iconic landmarks like Burj Khalifa and Palm Jumeirah, Abu Dhabi holds a special place in the country's history and identity as the capital city. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "تعد أبوظبي عاصمةً لجمهورية الإمارات العربية المتحدة ومركزاً لقيادة الحكومة في البلاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6
+    }
+  }
+}

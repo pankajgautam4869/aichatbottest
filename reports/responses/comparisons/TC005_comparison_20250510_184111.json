@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250510_184111",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "In 2018, Trump was in office for about 18 months, having taken office on January 20, 2017. During this time, he faced various challenges and controversies, including investigations into Russian interference in the 2016 presidential election, border wall construction with Mexico, and debates over healthcare reform. "
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "في عام 2018، كان ترامب في office for about 18 months having taken office January 20, 2017. خلال هذا الوقت، كان he faced various challenges and controversies، including investigations Russian interference in the 2016 presidential election، border wall construction with Mexico، and debates over healthcare reform. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7777777777777777
+    }
+  }
+}

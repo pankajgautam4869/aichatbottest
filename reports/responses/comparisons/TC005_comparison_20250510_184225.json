@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250510_184225",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "Note: There is no separate country called \"America\" in the world. The term \"America\" typically refers to the United States of America or the continent of North America. "
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "و للاستنفادة: لا يوجد \"رئيس أ Amerka\"، حيث يُسمى الرئيس رئيسا للولايات المتحدة (United States). "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5119047619047619
+    }
+  }
+}

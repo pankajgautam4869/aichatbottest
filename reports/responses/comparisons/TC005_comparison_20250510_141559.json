@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250510_141559",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "Donald Trump was succeeded by Joe Biden as the President of the United States on January 20, 2021. "
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "دونالد ترامب منع عن chức president للولايات المتحدة الأمريكية بعد January 20, 2021، وتمت sucessه بعده Joe Biden. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 1.0
+    }
+  }
+}

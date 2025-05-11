@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250509_233154",
+  "english": {
+    "query": "What were the major events of World War II?",
+    "response": "These are just some of the major events that shaped World War II. The war was a complex and multifaceted conflict that involved many other events, battles, and decisions that contributed to its outcome. "
+  },
+  "arabic": {
+    "query": "ما هي الأحداث الرئيسية في الحرب العالمية الثانية؟",
+    "response": "هذه بعض الأحداث الرئيسية التي حدثت خلال الحرب العالمية الثانية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.34803921568627455
+    }
+  }
+}

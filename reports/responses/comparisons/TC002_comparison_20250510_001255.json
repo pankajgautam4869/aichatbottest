@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_001255",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Fujairah joined the UAE later, on December 10, 1971. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأكلت الإمامة بالتأسيس لفترة أسبوعين بعد ذلك في 10 ديسمبر 1971، عندما انضمت إمارة فجيرة إلى الاتحاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6209150326797386
+    }
+  }
+}

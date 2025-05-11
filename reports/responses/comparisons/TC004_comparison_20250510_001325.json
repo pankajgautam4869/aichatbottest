@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_001325",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "In summary, while the UAE has some mechanisms in place to provide citizens with limited participation in government, it does not possess democratic institutions or principles, and is considered an absolute monarchy. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "بدلاً من ذلك، يعتبر نظام الحكم في إAE ملكيةAbsolute، حيث أن السلطة تتمحور في أيدي عائلة الحكم، ولا تشمل المواطنون في أي degrees Participation في القرار. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6875
+    }
+  }
+}

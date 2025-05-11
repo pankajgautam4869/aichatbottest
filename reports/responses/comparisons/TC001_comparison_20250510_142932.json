@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_142932",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The Prime Minister of Abu Dhabi, which is one of the seven emirates and the largest and wealthiest of them, is Mubadala's Chairman and Abu Dhabi's Supreme Council's Deputy Chairman (acting) Sheikh Ahmed bin Zayed Al Nahyan but he rarely holds that role. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "كما tôi قلت سابقًا، إنها federation مكونة من سبع إمارة، وتتولى كل إمارة herself. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5529715762273902
+    }
+  }
+}

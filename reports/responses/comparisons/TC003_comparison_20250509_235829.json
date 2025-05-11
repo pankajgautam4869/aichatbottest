@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250509_235829",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "However, Dubai is often considered the economic capital of the UAE due to its status as a major financial center and tourist destination. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "ومع ذلك، فهي دبي غالباً يعتبر مركزًا الاقتصادي الرئيسي في الإمارات العربية المتحدة بسبب درجته كمركز مالي وسياحي رئيسي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7753623188405797
+    }
+  }
+}

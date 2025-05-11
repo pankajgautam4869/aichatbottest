@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_143804",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Sheikh Zayed served as the first president of the UAE until his death on November 3, 2004. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تم إنشاء دولة الإمارات العربية المتحدة من قبل سبع إمارة (أبوظباء، دبي، شارقة، Ajman، Umm Al Quwain، Ras Al Khaimah، و Fujairah ) على مرتفعات شبه جزيرة خليج عمان. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6954022988505747
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_083319",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "However, the UAE does have a federal cabinet that advises the President of the UAE on various matters. The current Prime Minister of the UAE is Mohammed bin Rashid Al Maktoum, who also serves as the Vice President and Prime Minister of the UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لا توجد حكومة إ Emirates يسمو بمن في مكانه رايس الوزراء. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3333333333333333
+    }
+  }
+}

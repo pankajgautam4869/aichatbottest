@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250510_142158",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "Note that the UAE has a unique system of government, where the president serves as the head of state, while the prime minister is responsible for the executive branch. "
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "كان_trump_ رئيسًا لجمهورية الولايات المتحدة الأمريكية من 20 يناير 2017 إلى 20 يناير 2021. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6053639846743295
+    }
+  }
+}

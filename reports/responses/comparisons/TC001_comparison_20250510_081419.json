@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_081419",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "However, from 1966 to 1971, the UAE had a Prime Minister, and some sources say that Sheikh Rashid bin Saeed Al Maktoum served as the last Prime Minister of Dubai. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "هو شейخ محمد بن زايد آل نهيان، who is the current President of the UAE, and not a Prime Minister. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7222222222222222
+    }
+  }
+}

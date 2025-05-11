@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250509_235526",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "On December 2, 1971, the six emirates signed a formal agreement to establish the UAE, with Sheikh Zayed bin Sultan Al Nahyan (the founder of the UAE) as its first president. Since then, the UAE has undergone significant development and transformation, becoming one of the most prosperous and modern countries in the Middle East. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات العربية المتحدة بعد ذلك بشكل حقيقي في عام 1971، عندما أصبحت إمارة أبوظبى هي القمة الفيدرالية للاتحاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3315696649029982
+    }
+  }
+}

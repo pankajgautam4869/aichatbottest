@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_131421",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "However, these reforms have been slow and limited, and the UAE still faces significant challenges in terms of its democratic credentials. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "تتعرض إمارة الفترة 2023، لمشكلة ضغط على المزيد من الحريات والاعترافات والمظاهرات. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6349206349206349
+    }
+  }
+}

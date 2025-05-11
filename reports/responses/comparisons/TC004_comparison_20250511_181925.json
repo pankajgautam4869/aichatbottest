@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250511_181925",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "However, it's worth noting that the UAE has made efforts in recent years to introduce more democratic elements, such as the creation of a new constitution that guarantees certain rights and freedoms, and the establishment of a national human rights commission."
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "من الجدير بالذكر أن هناك بعض التغييرات التي سوف يتم اتخاذها في المستقبل ، مثل إجراء انتخابات أقل قيمة للشعب UAE، ولكنها لا تتأثر بنظام حكم الرئيس الوقتي."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.644308943089431
+    }
+  }
+}

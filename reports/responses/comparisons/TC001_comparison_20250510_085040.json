@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_085040",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The UAE is a federal state, and the President serves as the head of state for the country as a whole. The current President of the UAE is Sheikh Mohammed bin Zayed Al Nahyan (also the ruler of Abu Dhabi). "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الجواب السابق كان صحيحًا، لأن الإمارات العربية المتحدة هي دولة Federative، وتشكل كل إمارة من herself دولة مستقلة. لا توجد قوة رئيسية مثل Prime Minister في هذه الحالة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7888888888888889
+    }
+  }
+}

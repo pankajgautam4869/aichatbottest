@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_080829",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "These rulers form the Council of Ministers, which is responsible for making decisions on domestic and foreign policy matters for each emirate. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لا يوجد رئيس وزراء في الإمارات العربية المتحدة. كما تعود السلطة على هذه posição إلى أورابيا أو دولة أخرى. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.787878787878788
+    }
+  }
+}

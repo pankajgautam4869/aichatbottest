@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250509_233613",
+  "english": {
+    "query": "What were the major events of World War II?",
+    "response": "These are just some of the major events of World War II, but they give you a sense of the scope and complexity of this global conflict. "
+  },
+  "arabic": {
+    "query": "ما هي الأحداث الرئيسية في الحرب العالمية الثانية؟",
+    "response": "الحرب العالمية الثانية كانت حربًا عالمية أسبوعها من عام 1939 إلى عام 1945، وتعرضت للاهتمامات عديدة، ومن بينها:  "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5555555555555555
+    }
+  }
+}

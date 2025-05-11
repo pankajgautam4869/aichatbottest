@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250511_182055",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi is home to many government institutions, including the Presidential Palace, the Federal National Council building, and the Sheikh Zayed Grand Mosque, which is one of the largest mosques in the world."
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "آبوظبي هي حاضرة العديد من المؤسسات الحكومية، بما في ذلك القصر الرئاسي، وجمعية الشعب الوطني، وأهرام أبوظبي الذي يحتوي على واحدة من أكبر المساجد في العالم."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6626262626262626
+    }
+  }
+}

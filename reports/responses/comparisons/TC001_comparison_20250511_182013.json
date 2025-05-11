@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_182013",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Please note that my knowledge cutoff is in 2023, and any changes since then may not be reflected in my response."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الجواب صعب، поскольку الإمارات العربية المتحدة هي federation من شبه الجزيرة العربية، وتتكون من سبع إمارات riêng، وأحد ملوك هذه الإمارات هما يزيد بن طارق آل نหayan."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7592592592592592
+    }
+  }
+}

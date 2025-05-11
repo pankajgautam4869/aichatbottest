@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_083234",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "But the date of December 2, 1971, is often considered the official founding date of the UAE, marking the country's independence from British colonial rule. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات العربية المتحدة في 2 ديسمبر 1971، when السبع إمارة - أبحراء، دبي، الشارقة، Ajman، Umm Al Quwain، Ras Al Khaimah، و Fujairah- gained إستقلالاً من المملكة المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7040229885057471
+    }
+  }
+}

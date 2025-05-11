@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_142144",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "تتسم حكومة الإمارات العربية المتحدة بلحظات مميزة: "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "لا يوجد نظام ديمقراطي أو حكم بالجمهور في الإمارات العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5454545454545454
+    }
+  }
+}

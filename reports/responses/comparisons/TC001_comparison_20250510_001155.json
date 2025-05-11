@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_001155",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The current head of government in the UAE is Sheikh Mohammed bin Rashid Al Maktoum, who serves as both the Vice President and Prime Minister of the UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الرئيس الحالي للاتحاد العربي هي الشيخ محمد بن راشد آل مكتوم، الذي يعمل كvice president وprime minister للاتحاد العربي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7261904761904763
+    }
+  }
+}

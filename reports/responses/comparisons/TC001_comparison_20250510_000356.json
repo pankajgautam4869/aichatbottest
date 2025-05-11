@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_000356",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "These rulers are responsible for governing their respective emirates and making important decisions on behalf of the UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "تختلف المسؤوليات والاختصاصات بين هذه الوزارات، ولكنهم جميعًا يديرون بعض الأعمال التي تتعين على الحكومة الإماراتية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.9629629629629629
+    }
+  }
+}

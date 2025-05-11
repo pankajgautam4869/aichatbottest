@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_085223",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Overall, Abu Dhabi is a city that embodies the modernity, luxury, and rich cultural heritage of the UAE. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "تعتبر Abu Dhabi مدينة مفتوحة، تُحترم الثقافة والديانة والاحتفالات المسيحية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6018518518518519
+    }
+  }
+}

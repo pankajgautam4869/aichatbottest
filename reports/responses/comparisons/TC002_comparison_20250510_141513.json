@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_141513",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "On December 2, 1971, the UAE was officially formed, with Sheikh Zayed bin Sultan Al Nahyan (Ruler of Abu Dhabi) as its first President. The country has since grown to become one of the wealthiest and most influential nations in the Middle East. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "في 2 ديسمبر 1971، تأسست الإمارات العربية المتحدة رسمياً، مع Sheikh زيد بن سلطان ال Nahyan (رuler of Abu Dhabi) كأول رئيس للبلاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.4116279069767442
+    }
+  }
+}

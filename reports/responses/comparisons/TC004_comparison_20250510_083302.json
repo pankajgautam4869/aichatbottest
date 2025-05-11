@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_083302",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Therefore, the UAE is not considered a democracy in the classical sense. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "يُمكن أن يتم تحديد بعض العناصر الديمقراطية في الإمارات العربية المتحدة، مثل الانتخابات المجانية للمعلمين في المجلس الفيدرالي federal، ولكنها لا تتمكن من تقديم نموذج ديمقراطي جيد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6481481481481481
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_081537",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "However, it wasn't until December 2, 1971, that the UAE officially came into existence, with Sheikh Zayed bin Sultan Al Nahyan as its first president. The country has since undergone significant changes and developments, but its formation on this date marks a major milestone in its history. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "ولم تكن الإمارات المتحدة قد تأسست رسمياً حتى 2 ديسمبر/كانون الأول 1971، عندما أعلنت السبع إمارة على استقلالها. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3419452887537994
+    }
+  }
+}

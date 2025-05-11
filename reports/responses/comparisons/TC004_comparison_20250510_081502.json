@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_081502",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Despite these concessions, the UAE's democratic system remains limited, and the government maintains significant control over all aspects of life in the country. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "كما تشتهر الإمارات العربية المتحدة بحدوث معارض للسيادة الحكومية، وتقليل الحريات الفردية، وتحديد المواضيع التي يمكن تكريرها أو مواصلاتها. كما يتم منع أي تعبيرات سياسية غير موافقة مع السياسة الحكومية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.6444444444444445
+    }
+  }
+}

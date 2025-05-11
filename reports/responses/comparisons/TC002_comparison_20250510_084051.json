@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_084051",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The founding fathers of the UAE included Sheikh Zayed bin Sultan Al Nahyan (Abu Dhabi), Sheikh Rashid bin Saeed Al Maktoum (Dubai), and Sheikh Saqr bin Muhammad Al Qasimi (Sharjah), among others. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "قبل ذلك كانت الإمارات جزءًا من دول الخليج العربي العربية السبع، وواحدة من القوى الرئيسية في المنطقة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.59375
+    }
+  }
+}

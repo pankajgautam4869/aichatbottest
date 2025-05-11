@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_143818",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi is home to many government ministries, departments, and institutions, including the presidential palace (Al Qasr Al Emani), the parliament building, and the Federal National Council. It's also a major center for business, finance, and tourism in the region. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظباء هي العاصمة والكبرى لبلاد الإمارات العربية المتحدة، ومقر الحكومة الفيدرالية فيها، وأبوظباء هي عاصمة الإمارة الواحدة من أهم المدن في البلاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.38703703703703707
+    }
+  }
+}

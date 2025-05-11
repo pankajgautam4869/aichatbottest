@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_075414",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi has undergone significant development in recent years, with investments in infrastructure, tourism, and innovation, making it an attractive destination for visitors and businesses alike. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "تتميز المدينة بوجود العديد من المعالم الشهيرة، مثل المسجد الكبير الذي يعتبر من أكبر مساجد العالم، والمعهد الفخري الذي يعرف بجمالها والتنوع الثقافي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6948717948717947
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_080914",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "However, Dubai is often considered the \"financial hub\" or \"business center\" of the UAE due to its strong economy, tourism industry, and modern infrastructure. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "كانت أبوظبي عاصمة الإمارات العربية المتحدة منذ عام 1971، عندما تم تشكيل الدولة. وتقع المدينة في القاعدة الغربية لسهل الإمارات العربية المتحدة، ومتوفر لها مناخ بارد شتاءً حار صيفاً. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.6091954022988505
+    }
+  }
+}

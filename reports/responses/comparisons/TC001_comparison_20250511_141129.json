@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_141129",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The United Arab Emirates (UAE) does not have a traditional prime minister. Instead, it has a President and a Deputy President, who are both elected by the Federal Supreme Council. The head of government is the Prime Minister, but in 1971, when the UAE was formed, Zayed bin Sultan Al Nahyan became the country's first Prime Minister.\nHowever, since the death of Sheikh Zayed in 2004, the title \"Prime Minister\" has been retained as a ceremonial position, while the actual head of government is the Crown Prince or other senior officials."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "The United Arab Emirates (UAE) does not have a traditional prime minister. Instead, it has a President and a Deputy President, who are both elected by the Federal Supreme Council. The head of government is the Prime Minister, but in 1971, when the UAE was formed, Zayed bin Sultan Al Nahyan became the country's first Prime Minister.\nHowever, since the death of Sheikh Zayed in 2004, the title \"Prime Minister\" has been retained as a ceremonial position, while the actual head of government is the Crown Prince or other senior officials.\nرئيس الوزراء في الإمارات العربية المتحدة هو مساعد الرئيس والوزير الأول، وهو عادةً أحد أفراد العائلة المالكة أو شخص ذو صلة عائلية، يعتمد على الرأي الشخصي للرئيس.\nفي حال عدم وجود قائد عسكري، يتم تعيين وزير الدفاع أو وزير الإدارة كرئيس الوزراء."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5
+    },
+    "information_consistency": {
+      "score": 0.6666666666666666
+    },
+    "structure_similarity": {
+      "score": 0.7360066833751043
+    }
+  }
+}

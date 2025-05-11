@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_141528",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Both cities are popular tourist destinations and offer a unique blend of traditional Emirati culture and modern luxury amenities. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "تعد دوتين مدنًا متقاربة، حيث تتضمن كل منهما مزيجًا من الثقافة التقليدية والثقافة الحديثة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.912280701754386
+    }
+  }
+}

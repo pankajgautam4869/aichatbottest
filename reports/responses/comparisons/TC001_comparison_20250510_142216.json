@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_142216",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The Crown Prince of Abu Dhabi, Sheikh Mohammed bin Zayed Al Nahyan, serves as the Prime Minister of the UAE, although this title is not officially used. He is responsible for overseeing the country's government and making key decisions on behalf of the President. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "وأخيرا، يعتمد الحكومة الإماراتية على نظام مسؤولية وطنية لتحديد من يهدف إجراء الأمور في البلاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.346969696969697
+    }
+  }
+}

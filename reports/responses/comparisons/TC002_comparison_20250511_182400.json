@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250511_182400",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Since then, the UAE has undergone significant economic and social development, driven by the vision of its leaders to build a modern, prosperous nation based on Islamic values and principles."
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "منذ ذلك الحين ، قامت الإمارات العربية المتحدة بتطورات economyocial متعاقبة، تم تشكيلها من خلال رؤية她的 رؤساء لbuilding a modern prosperous nation based on values islamic."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7055555555555556
+    }
+  }
+}

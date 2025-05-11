@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_131453",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Note that the UAE's government structure is based on an absolute monarchy system, where the President holds significant power and authority over the country's governance. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "في 5 نوفمبر 2022 أعلن عن استقaille president of the UAE Sheikh Mohammed bin Zayed Al Nahyan. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7266666666666667
+    }
+  }
+}

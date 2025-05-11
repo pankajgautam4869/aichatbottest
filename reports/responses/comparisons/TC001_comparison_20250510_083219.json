@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_083219",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The Prime Minister of the United Arab Emirates (UAE) is Mohammed bin Rashid Al Maktoum. However, he also serves as the Ruler of Dubai and is the Vice President and Prime Minister of the UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "رئيس الوزراء للاتحاد العرabi، محمد بن راشد آل مكتوم، يعتبر أيضًا رائداً في دبي والرئيس التنفيذي للاتحاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7166666666666666
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.4396825396825397
+    }
+  }
+}

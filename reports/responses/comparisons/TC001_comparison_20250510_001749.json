@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_001749",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The Cabinet of Ministers in the UAE is headed by a Prime Minister, but the position has been held by several individuals over the years. The current Prime Minister of the UAE is Sheikh Mohammed bin Abdullah Al Nahyan, however I do not have information on this person's duration as prime minister "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "بالتأكيد، يعتبر الحاكم التنفيذي للاتحاد الأوروبي  المقرر بنظام الديمقراطية الليبرالية والولاية الفيدرالية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3547008547008547
+    }
+  }
+}

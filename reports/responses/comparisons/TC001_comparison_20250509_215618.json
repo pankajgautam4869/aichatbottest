@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_215618",
+  "english": {
+    "query": "Hello, how are you?",
+    "response": "I'm just a language model, so I don't have emotions or feelings like humans do. However, I'm functioning properly and ready to assist you with any questions or tasks you may have! How can I help you today? "
+  },
+  "arabic": {
+    "query": "مرحبا، كيف حالك؟",
+    "response": "أريد أن أعرف ما يمكنني فعلته لخدمتك اليوم. هل هناك أي شيء معين يحتاجك إليه؟ "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.36893203883495146
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.39473684210526316
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_134538",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "It's worth noting that the UAE has no democratic traditions or institutions, and its governance system is not based on Western-style democracy. The country's governance system is shaped by Islamic law and the principles of the Prophet Muhammad (peace be upon him). "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "بالنسبة للعلاج بالواقع، الإمارات العربية المتحدة لا تتبع قواعد ديمقراطية شاملة، وسياسة مكونة من مجتمعات محلية أو معايير قومية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.42857142857142855
+    }
+  }
+}

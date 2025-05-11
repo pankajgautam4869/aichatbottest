@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250511_182116",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "It's worth noting that there have been some attempts to introduce more democratic reforms in recent years, such as the introduction of a national identity card for all citizens, but these changes are still limited."
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "أما بالنسبة للنظام الحكومي فمن المهم mentioning أن الإمارات العربية المتحدة تُعتبر ملموسة في شؤونها، حيث تتمتع بالتحكم في حياتها اليومية."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6444444444444445
+    }
+  }
+}

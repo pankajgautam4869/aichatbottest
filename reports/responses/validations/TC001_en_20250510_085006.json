@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250510_085006",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "It's worth noting that the UAE's government structure is unique and has evolved over time to accommodate its diverse population and economic needs. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 0.0
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.6
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

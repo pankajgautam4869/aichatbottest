@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_075431",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "While the UAE's system is not traditional democracy, it does offer some elements of representation and participation for citizens. However, critics argue that the country's governance structure remains undemocratic, with limited space for dissent and opposition voices. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "في حين لا يعتبر نظام الحكم في دولة الإمارات العربية المتحدة ديمقراطيا traditionales، فإنه يتيح بعض ملاذات التمثيل والparticipation للناس. ومع ذلك، وُصفت القوة السياسية بالمحدودة، مع حقيقة أنه لا تتمكن معارضة أو صوت للديمقراطية في بلد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7999999999999999
+    }
+  }
+}

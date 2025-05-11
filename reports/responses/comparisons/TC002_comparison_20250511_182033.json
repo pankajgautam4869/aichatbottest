@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250511_182033",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "However, it wasn't until January 9, 1976, that Sheikh Zayed bin Sultan Al Nahyan became the first President of the UAE and established the country's federal government."
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "ومع ذلك، لم يُسمح لها بالتأسيس حتى عام 1976، عندما أصبح الشيخ زيد بن سلطان آل Nahyan أول رئيس للولاية، والرئيس التنفيذي للولاية federationية."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7129629629629629
+    }
+  }
+}

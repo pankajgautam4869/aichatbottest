@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_081433",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The seven emirates signed the Federation Treaty on December 2, 1971, which established the UAE as a federation of seven equal states. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "وقعت السبع إمارات الحكومة الاتحادية في 2 كانون الثاني / يناير 1971، والتي قامت بتشكيل الإمارات العربية المتحدة كمنطقة من سبع إمارات متكافئة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7632850241545893
+    }
+  }
+}

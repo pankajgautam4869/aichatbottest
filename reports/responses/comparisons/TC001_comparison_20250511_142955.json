@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_142955",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The United Arab Emirates (UAE) does not have a single Prime Minister. Instead, it has a President and several Deputy Presidents, as well as a Cabinet of ministers who are responsible for different ministries.\nThe current President of the UAE is Sheikh Mohammed bin Zayed Al Nahyan, also known as MBZ. He has been in office since 2004 and is also the Emir of Abu Dhabi.\nThere is no traditional prime ministerial position in the UAE, but there are several deputy presidents who play important roles:\nThese individuals hold significant power and influence in their respective emirates, but they do not have the same level of authority as a prime minister in other countries."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "The United Arab Emirates (UAE) does not have a single Prime Minister. Instead, it has a President and several Deputy Presidents, as well as a Cabinet of ministers who are responsible for different ministries.\nThe current President of the UAE is Sheikh Mohammed bin Zayed Al Nahyan, also known as MBZ. He has been in office since 2004 and is also the Emir of Abu Dhabi.\nThere is no traditional prime ministerial position in the UAE, but there are several deputy presidents who play important roles:\nThese individuals hold significant power and influence in their respective emirates, but they do not have the same level of authority as a prime minister in other countries.\nلا توجد رئاسة وزراء في الإمارات العربية المتحدة، ولكنها تحتوي على حكومة برئاسها.\nتعد الإمارات العربية المتحدة دولة إمارة، حيث يعتمد الحكم على الإمارات المثبتة. يعيش الرئيس في Abu Dhabi، ويُنتخب من قبل المجلس التأسيسي (النوادي) الذي يكون متصلاً بملك UAE، والذي يكون President UAE.\nأما عن من يحكم الإمارات العربية المتحدة، فهناك بعض الإمارات التي تحتوي على رؤساءها الذين يعتبرون themselves كخلفا لملك UAE:\nهذان الرئيسان هما رئيسي إمارة UAE، والذي ينتخب President UAE.\nأما عن من يحكم الإمارات العربية المتحدة في مستوى الأمن و internal matters، فهناك عدة رؤساء أمانة UAE، ويسموا باسم \" Minister of Interior\"، ومن بينهم:\nهذان الرؤساء هما مسؤولون عن الأمن والسيطرة على الإمارات العربية المتحدة، ولكن ليس لديهم رئاسة وزراء."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5533910533910534
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_135725",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The Prime Minister of the United Arab Emirates (UAE) is Sheikh Mohammed bin Rashid Al Maktoum. He has been serving as both the Prime Minister and the President of the UAE since 2006.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 1.0
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 1.0
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

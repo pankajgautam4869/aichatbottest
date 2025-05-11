@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250509_235744",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Dubai, which is also one of the seven emirates that make up the UAE, has recently gained significant attention for its modern architecture, shopping centers, and business hubs. However, Abu Dhabi remains the country's capital and political center. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "كنتما دبي، الذي هوalsoو من الإمارات العربية المتحدة، يهتم بالتعاون مع أبوظبي كعاصمة الإقليم والسياسة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3458646616541354
+    }
+  }
+}

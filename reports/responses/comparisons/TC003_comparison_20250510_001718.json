@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_001718",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "While Dubai is often considered the most popular tourist destination in the UAE due to its modern infrastructure and entertainment options, Abu Dhabi offers a more traditional and cultural experience, with a rich history and architecture. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "while Dubai often considered most popular tourist destination in UAE due to its modern infrastructure and entertainment options، أبوظبي offers more traditional and cultural experience، with rich history and architecture. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7222222222222223
+    }
+  }
+}

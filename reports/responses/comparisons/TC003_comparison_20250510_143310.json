@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_143310",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Dubai, which is also one of the seven emirates that make up the UAE, is often mistakenly referred to as the capital due to its large size and economic importance. However, Abu Dhabi remains the official capital and seat of government for the country. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "دبي، التي هي واحدة من السبع إمارات التي تشكل دولة الإمارات العربية المتحدة، يعتبرت أحيانًا على أنها عاصمة بسبب حجمها الكبير وتحديتها الاقتصادية. Tuy nhiên، أبوظبي остiene العاصمة الرسمية ومقر الحكومة للبلد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7090909090909091
+    }
+  }
+}

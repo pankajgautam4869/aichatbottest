@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_184014",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "But actually, the UAE is an absolute monarchy, with seven rulers (Sheikhs) sharing power among themselves. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لكن إذا كنت تتطلع إلى قائد الحكومة الحالي لولاية أبوظبي أو إمارة دبي، فبالتأكيد يمكن أن تكون هذه المعلومات مفيدة: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_144534",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "On January 18, 1972, the Emirates Council was established, and Sheikh Zayed bin Sultan Al Nahyan was elected as the first President of the UAE. The UAE has since become a federation with its own government, constitution, and laws. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "في 18 يناير 1972، تم إنشاء المجلس الفيدرالي، وانتخب الشيخ زايد بن سلطان آل نهيان أول رئيس للولاية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.36813186813186816
+    }
+  }
+}

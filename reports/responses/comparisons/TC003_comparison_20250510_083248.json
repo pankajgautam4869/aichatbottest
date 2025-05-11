@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_083248",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "In recent years, Dubai has become an important center for trade, finance, tourism, and commerce in the region, making it a key player in the UAE economy. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "عاصمة الإمارات العربية المتحدة هي أبوظبي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.46296296296296297
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_235132",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "In 2022, the UAE's government announced a new cabinet formation with several changes, including the reappointment of a prime minister (although the name of the person was not released to the public), Sheikh Abdullah bin Mohammed Al Jaber Al Thani. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الإجابة الصحيحة هي لا يوجد رئيس وزراء في الإمارات العربية المتحدة، посколькуها هي دولة federation تتبع نظام ملكي، وتعتمد على حكم الراهب من.each إمير. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5333333333333333
+    }
+  }
+}

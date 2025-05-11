@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_144520",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The President of the UAE is Sheikh Khalifa bin Zayed Al Nahyan, who has been in office since 2004. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الواقع، لا يوجد وزيرPremier minister في الإمارات العربية المتحدة. كما وافق الحكومة الإماراتية على عدم وجود وظيفة رائعة \"وزيرรئاسة\". "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.8333333333333334
+    }
+  }
+}

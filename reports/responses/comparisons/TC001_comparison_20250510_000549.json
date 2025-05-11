@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_000549",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "It's worth noting that the UAE has a federal system of government, where each emirate has a significant degree of autonomy and decision-making power. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "بالنسبة للإمارات العربية المتحدة، يُعتبر السلطان (الشايخ) من قبل السكان المحليين، ويُسمى \"السلطان\" أو \"الملك\". بعض الأميرات في الإمارات العربية المتحدة تُعرف بالشعوب المحلية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.8333333333333334
+    }
+  }
+}

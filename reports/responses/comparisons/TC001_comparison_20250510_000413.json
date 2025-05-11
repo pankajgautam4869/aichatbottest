@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_000413",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "So, to answer your question, there is no single Prime Minister of the UAE, but rather a collective leadership structure that includes Sheikh Mohammed bin Rashid Al Maktoum as the Prime Minister and Ruler of Dubai. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "في الإمارات العربية المتحدة، تتبع الحكومة الفيدرالية نظام القائد في القسم الرئاسي، حيث لا يوجد وزير أو رئيس وزراء يلعب دورًا دائمًا. بدلاً من ذلك، تُقسم حكومة الشارع الفيدرالي إلى رجل للرئاسة (الرئيس) وناسا من أعضاء مجلس الوزراء، وتتولى المهمة العليا لوزير القائد في القسم الرئاسي، وينصهر القرارات الدستورية مع الرئيس. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5686274509803922
+    }
+  }
+}

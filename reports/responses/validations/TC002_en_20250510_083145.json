@@ -1,0 +1,24 @@
+{
+  "test_id": "TC002",
+  "language": "en",
+  "timestamp": "20250510_083145",
+  "query": "When was UAE established?",
+  "response": "On November 29, 1971, the seven emirates signed an agreement to form a federation, which came into effect on December 2, 1971. This marked the establishment of the United Arab Emirates as a sovereign country in the Persian Gulf region. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 1.0
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.6
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_143001",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "In fact, until 1996, Dubai was known as the \"economic capital\" of the UAE, while Abu Dhabi served as the official capital. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "عاصمة الإمارات العربية المتحدة هي أبوظبي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5075757575757576
+    }
+  }
+}

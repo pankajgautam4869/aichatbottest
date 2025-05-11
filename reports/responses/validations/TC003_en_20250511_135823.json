@@ -1,0 +1,24 @@
+{
+  "test_id": "TC003",
+  "language": "en",
+  "timestamp": "20250511_135823",
+  "query": "What is the capital of UAE?",
+  "response": "The Prime Minister of the United Arab Emirates (UAE) is Sheikh Mohammed bin Rashid Al Maktoum. He has been serving as both the Prime Minister and the President of the UAE since 2006.\nThe United Arab Emirates (UAE) was formed on December 2, 1971, when seven emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm al-Quwain, Ras al-Khaimah, and Fujairah) gained independence from the United Kingdom.\nThe capital of the United Arab Emirates (UAE) is Abu Dhabi. However, Dubai is often mistakenly referred to as the capital due to its economic importance and being the largest city in the country. But officially, Abu Dhabi has been the federal capital since 1971.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 1.0
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.6
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

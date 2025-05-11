@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_002207",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "While Abu Dhabi is the capital and seat of government, Dubai is often considered the economic and commercial hub of the UAE, with a larger population and more international businesses. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "على الرغم من ذلك، يتم تُسميه أباظبي كعاصمة الحكومة، بينما يُعتبر دبى مركزًا تجاريًا هامًا في الإمارات العربية المتحدة، حيث يوجد عدد كبير من المؤسسات المالية والشركات الدولية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7555555555555555
+    }
+  }
+}

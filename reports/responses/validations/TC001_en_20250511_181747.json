@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_181747",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The United Arab Emirates (UAE) has a presidential system, and it does not have a traditional prime minister. Instead, the UAE is led by a President who serves as both the head of state and the head of government.\nThe current President of the UAE is Sheikh Mohamed bin Zayed Al Nahyan, also known as Sheikh Hazza bin Zayed Al Nahyan (although he is more commonly referred to simply as Sheikh Mohamed). He has been serving as the President since 2022.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.3333333333333333
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.8
+    },
+    "language_specific": {
+      "score": 0.6031180400890869
+    }
+  }
+}

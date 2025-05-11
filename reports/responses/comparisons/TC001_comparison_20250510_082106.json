@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_082106",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The UAE has a federal government, and the President of the UAE is also the Ruler of Abu Dhabi, while the Prime Minister is not a separate position. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "للماينو في الإمارات، each emirate has a local government, but there is no single Prime Minister position that governs the entire country. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.8174603174603176
+    }
+  }
+}

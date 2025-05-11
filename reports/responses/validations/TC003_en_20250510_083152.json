@@ -1,0 +1,24 @@
+{
+  "test_id": "TC003",
+  "language": "en",
+  "timestamp": "20250510_083152",
+  "query": "What is the capital of UAE?",
+  "response": "Abu Dhabi has been the capital of the UAE since its formation in 1971 and serves as the country's administrative and economic center. The city is home to many important institutions, including the presidential palace (also known as Al Qasr Al Uthman), the Federal National Council, and several government ministries. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.6666666666666666
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.6
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

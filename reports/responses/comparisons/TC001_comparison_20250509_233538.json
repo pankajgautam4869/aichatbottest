@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_233538",
+  "english": {
+    "query": "What are the major mountain ranges in Asia?",
+    "response": "These are just a few examples of the many magnificent mountain ranges in Asia, which offer breathtaking landscapes, rich cultural heritage, and unparalleled outdoor adventures. "
+  },
+  "arabic": {
+    "query": "ما هي سلاسل الجبال الرئيسية في آسيا؟",
+    "response": "أسيا تحتوي على nhiều سلاسل جبلية مشهورة ومن بينها: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.4533333333333333
+    }
+  }
+}

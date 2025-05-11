@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250509_235815",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "On February 18, 1972, the UAE was officially proclaimed a federation with Sheikh Zayed bin Sultan Al Nahyan as its first president, and he served in that role until his death in 2004. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "في 18 فبراير 1972، أعلنت الإمارات العربية المتحدة رسمياً Federation واصلت سيدة الإمارة الشقيقة إلى بعد ذلك. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5883838383838383
+    }
+  }
+}

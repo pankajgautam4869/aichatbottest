@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_143256",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The first president of the UAE was Sheikh Zayed bin Sultan Al Nahyan (who ruled Abu Dhabi), who became the country's first head of state and government. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "عندما انضمت الإمارات إلى الاتحاد، أصبح الشيخ زايد بن سلطان آل نهاس (الذي كان حاكم أبوظبي) رائدًا للاتحاد، وتمت إعلانه sebagai أول رئيس للاتحاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7962962962962963
+    }
+  }
+}

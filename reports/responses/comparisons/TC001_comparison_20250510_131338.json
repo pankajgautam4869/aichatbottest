@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_131338",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "As of my knowledge cutoff in 2023, the President of the UAE was Sheikh Mohammed bin Zayed Al Nahyan, who serves as the Vice President and Prime Minister of the UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "أما عن رئيس البلاد ف: Sheikh Mohammed bin Zayed Al Nahyan "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.4516129032258065
+    }
+  }
+}

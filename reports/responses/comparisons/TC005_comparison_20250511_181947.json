@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250511_181947",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "In 2018, the Ruler of Abu Dhabi and President of the UAE was Sheikh Khalifa bin Zayed Al Nahyan, who had been in office since 2004."
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "الرئيس الأمريكي Donald Trump فاز في الانتخابات الرئاسية لعام 2016، وترمته في منصبه حتى عام 2021."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6495726495726496
+    }
+  }
+}

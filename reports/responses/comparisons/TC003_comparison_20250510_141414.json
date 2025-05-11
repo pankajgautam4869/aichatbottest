@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_141414",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "So while Abu Dhabi is the official capital, Dubai is often considered the commercial and tourist capital of the UAE. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظبي كذلك أكبر إمارة من حيث عدد السكان واقتصادها، وتعد مقراً لتجريبيات العديد من المؤسسات الوطنية والعربية، بما في ذلك القلاعة الرئاسية، مجلس الشورى الوطني، وقصر الرئيس. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7469135802469135
+    }
+  }
+}

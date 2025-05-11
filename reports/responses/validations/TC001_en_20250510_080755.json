@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250510_080755",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The current President of the UAE is Sheikh Mohamed bin Zayed Al Nahyan (also known as Zayed bin Sultan Al Nahyan). The current Vice President and Deputy Ruler of Abu Dhabi, and head of government, is Sheikh Mohammed bin Rashid Al Maktoum. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.6666666666666666
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.8
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250509_235844",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Overall, while the UAE has some democratic elements, it is not a truly democratic country by Western standards, and its system of government is characterized by significant authoritarianism and control by the ruling families. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "بالمقابل، لا تتمتع الإمارات العربية المتحدة بديمقراطية حقيقية، حيث لا تحققت فيها فرص التعبير عن الرأي العام أو استفتاء الشعب على القرارات السياسية الأساسية.\nبالتالي، يُعتبر نظام الحكم في الإمارات العربية المتحدة معقدًا، حيث تُشكل السلطة monarchic دورًا أساسيًا، بينما يتعرض المجتمع إلى بعض الحريات الأساسية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5797101449275363
+    }
+  }
+}

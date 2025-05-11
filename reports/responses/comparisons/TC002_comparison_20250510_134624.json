@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_134624",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Since then, the UAE has undergone significant development and growth, becoming one of the most modern and prosperous countries in the Middle East. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات العربية المتحدة (الإمارات العربية المتحدة) في 2 ديسمبر 1971، عندما سارعت سبع إمارة إلى التحرك نحو الاستقلال عن المملكة المتحدة وإنشاء اتحاد جديد يسمي \"المملكة العربية السعودية\" (وأخيرا، تسببت الصراعات بين الإمارات لاحقا في تغيير اسمها إلى \"الإمارات العربية المتحدة\"). "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.626984126984127
+    }
+  }
+}

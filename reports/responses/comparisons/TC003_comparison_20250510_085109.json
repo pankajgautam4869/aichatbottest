@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_085109",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "However, Dubai is often considered the commercial capital of the UAE due to its large financial sector, iconic landmarks such as the Burj Khalifa, and its status as a global business center. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "تقع أبوظبي في شرق البلاد، على الساحل الشرقي للبحر العربي. وهي من أكبر المدن في المنطقة ومتعددة الثقافات. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5208333333333334
+    }
+  }
+}

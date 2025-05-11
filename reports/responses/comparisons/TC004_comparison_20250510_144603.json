@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_144603",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Overall, while there are some measures aimed at increasing citizen participation and representation in government, the UAE's system of government remains non-democratic and based on a hierarchical structure with significant power concentrated in the hands of the ruling family. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "من الأهمية في هذا الصدد أن النظام الحالي لاتوفر حيزًا واضحًا للتنافس أو الديمقراطية والشراكة، ويتمتع الرئيس والعائلة الحاكمة بدرجة كبيرة من المال والسلطات. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6495726495726496
+    }
+  }
+}

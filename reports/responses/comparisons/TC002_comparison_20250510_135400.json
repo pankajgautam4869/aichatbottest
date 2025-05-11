@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_135400",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "On December 2, 1971, Sheikh Zayed bin Sultan Al Nahyan, the ruler of Abu Dhabi, issued a statement announcing the formation of the United Arab Emirates, and the country was officially established. The seven emirates that make up the UAE are: "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "وكانت هذه الحزمة تتألف من: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.2073170731707317
+    }
+  }
+}

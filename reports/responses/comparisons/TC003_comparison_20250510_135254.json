@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_135254",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi is a popular tourist destination, known for its stunning architecture, world-class museums, and vibrant cultural scene. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "هي أبوظيد، مدينتها الرائعة، وتركز فيها حكومة الإمارات العربية المتحدة ومؤسساتها وجماعاتها. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6388888888888888
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_085054",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "However, the UAE has undergone several changes since its inception. In 1972, Abu Dhabi became the capital of the UAE, and in 1974, Dubai surpassed Abu Dhabi to become one of the most populous emirates. Since then, the UAE has continued to grow and develop as a sovereign state. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "قبل ذلك كانت كل من الإمارات هي دول ذات سيادة مستقلة. وفي 2 ديسمبر 1971، أعلن الكتابة في المجرى البريطاني \"الانشطة المئوية\" عن استقلال UAE من المملكة المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5
+    },
+    "information_consistency": {
+      "score": 0.6666666666666666
+    },
+    "structure_similarity": {
+      "score": 0.49603174603174605
+    }
+  }
+}

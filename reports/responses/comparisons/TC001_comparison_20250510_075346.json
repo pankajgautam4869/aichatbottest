@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_075346",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "There is no single Prime Minister in the UAE, but the position of Deputy Ruler of Abu Dhabi is held by Sheikh Mohamed bin Zayed, who serves as both the President of the UAE and the Prime Minister of the UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "للمرة الأولى التي دخلها الإقليم سياسي إمريكي في عام 1971 كانت مناهضة للسيادة، ويعتبرت دولة الإمارات من أمم البرلماني والاتحاد الأوروبي الذي يحتفظ بالرئاسة التنفيذية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6476964769647696
+    }
+  }
+}

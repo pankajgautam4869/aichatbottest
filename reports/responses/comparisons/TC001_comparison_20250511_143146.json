@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_143146",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The United Arab Emirates (UAE) is a federation of seven emirates, and it does not have a single prime minister. Instead, each emirate has its own ruler, known as an Emir or Sheikh.\nThe current rulers of the seven emirates are:\nThese rulers make up the Federal Supreme Council (FSC), which is the highest governing body in the UAE. However, there is no single prime minister who oversees the entire country."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "The United Arab Emirates (UAE) is a federation of seven emirates, and it does not have a single prime minister. Instead, each emirate has its own ruler, known as an Emir or Sheikh.\nThe current rulers of the seven emirates are:\nThese rulers make up the Federal Supreme Council (FSC), which is the highest governing body in the UAE. However, there is no single prime minister who oversees the entire country.\nلا يوجد رؤساء في الإمارات العربية المتحدة، حيث تعتمد البلاد على نظام الحكم الإمارة، حيث يعيش mỗi إمارة في herself ، ويشرف كل منهم على شؤونها.\nولكن، يتمتع каждى إمارة بمرشح للرئيس للحكم في كل إمارة ."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5
+    },
+    "information_consistency": {
+      "score": 0.6666666666666666
+    },
+    "structure_similarity": {
+      "score": 0.7140852974186308
+    }
+  }
+}

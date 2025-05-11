@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_142130",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "Abu Dhabi (أبوظبي) هي عاصمة الإمارات العربية المتحدة. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "ابوظبى هي العاصمة الإماراتية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.8333333333333334
+    }
+  }
+}

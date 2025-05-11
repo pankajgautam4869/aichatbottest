@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_001240",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The UAE's leadership structure is often referred to as a \"monarchy\" system, where each emirate has its own absolute ruler, but there is also a federal government that oversees the country as a whole. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "هذا يعني أن هناك أسماء مثل \"وزير الداخلية\"، أو \"وزير الأمن\"، التي تختلف بين الإمارات وتتخذ قواعدها وسياساتها الخاصة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.630718954248366
+    }
+  }
+}

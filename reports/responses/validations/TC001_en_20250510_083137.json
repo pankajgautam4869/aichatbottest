@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250510_083137",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "As of my knowledge cutoff date (December 2023), the Prime Minister of the UAE is Mohammed bin Rashid Al Maktoum. However, please note that this information may have changed since then. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.3333333333333333
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 1.0
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

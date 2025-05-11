@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_142258",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "While there are some attempts to promote democratic reforms and improve human rights in the UAE, the country's political system remains far from being considered a full-fledged democracy. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "ومع ذلك، فإنّ الإمارات العربية المتحدة لا تعد دولة ديمقراطية على النحو العادي. وتعتمد حكومة الإمارات على نظام ملكي عظيم يبسط السلطة على الشعب. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.7857142857142857
+    }
+  }
+}

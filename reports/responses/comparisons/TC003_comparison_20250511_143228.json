@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250511_143228",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "The United Arab Emirates (UAE) is a federation of seven emirates, and it does not have a single prime minister. Instead, each emirate has its own ruler, known as an Emir or Sheikh.\nThe current rulers of the seven emirates are:\nThese rulers make up the Federal Supreme Council (FSC), which is the highest governing body in the UAE. However, there is no single prime minister who oversees the entire country.\nلا يوجد رؤساء في الإمارات العربية المتحدة، حيث تعتمد البلاد على نظام الحكم الإمارة، حيث يعيش mỗi إمارة في herself ، ويشرف كل منهم على شؤونها.\nولكن، يتمتع каждى إمارة بمرشح للرئيس للحكم في كل إمارة .\nThe United Arab Emirates (UAE) was established on December 2, 1971. It was formed after seven emirates gained independence from the United Kingdom and united to form a single country.\nPrior to that, the seven emirates were:\nEach of these emirates had its own ruler (Emir) and was a separate entity. However, in 1968, the seven emirates signed an agreement to form a federation, which came into effect on December 2, 1971.\nThe UAE has since become one of the wealthiest countries in the world, thanks to its rich oil reserves and strategic location in the Middle East.\nتأسست الإمارات العربية المتحدة في 2 ديسمبر 1971، عندما تم تشكيل السبع إمارة لتحتفظ بالمنشأ الحكومي والسياسي.\nقبل ذلك، كانت كل من هذه الإمارات Separate دولة ، ولكنها سُمِح ​​بمراكز القمة وتم تشكيلها في عام 1968.\nThe capital of the United Arab Emirates (UAE) is Abu Dhabi. It is also the largest emirate in the country and is home to many government ministries, institutions, and embassies.\nAbu Dhabi has been the capital of the UAE since its establishment in 1971, when it joined the seven other emirates to form a federation. Today, Abu Dhabi is a major urban center with a population of over 2 million people and serves as a hub for business, culture, and tourism in the region.\nHowever, it's worth noting that Dubai is often considered the economic capital of the UAE due to its status as a global financial center and its role in attracting international businesses and investments."
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "The United Arab Emirates (UAE) is a federation of seven emirates, and it does not have a single prime minister. Instead, each emirate has its own ruler, known as an Emir or Sheikh.\nThe current rulers of the seven emirates are:\nThese rulers make up the Federal Supreme Council (FSC), which is the highest governing body in the UAE. However, there is no single prime minister who oversees the entire country.\nلا يوجد رؤساء في الإمارات العربية المتحدة، حيث تعتمد البلاد على نظام الحكم الإمارة، حيث يعيش mỗi إمارة في herself ، ويشرف كل منهم على شؤونها.\nولكن، يتمتع каждى إمارة بمرشح للرئيس للحكم في كل إمارة .\nThe United Arab Emirates (UAE) was established on December 2, 1971. It was formed after seven emirates gained independence from the United Kingdom and united to form a single country.\nPrior to that, the seven emirates were:\nEach of these emirates had its own ruler (Emir) and was a separate entity. However, in 1968, the seven emirates signed an agreement to form a federation, which came into effect on December 2, 1971.\nThe UAE has since become one of the wealthiest countries in the world, thanks to its rich oil reserves and strategic location in the Middle East.\nتأسست الإمارات العربية المتحدة في 2 ديسمبر 1971، عندما تم تشكيل السبع إمارة لتحتفظ بالمنشأ الحكومي والسياسي.\nقبل ذلك، كانت كل من هذه الإمارات Separate دولة ، ولكنها سُمِح ​​بمراكز القمة وتم تشكيلها في عام 1968.\nThe capital of the United Arab Emirates (UAE) is Abu Dhabi. It is also the largest emirate in the country and is home to many government ministries, institutions, and embassies.\nAbu Dhabi has been the capital of the UAE since its establishment in 1971, when it joined the seven other emirates to form a federation. Today, Abu Dhabi is a major urban center with a population of over 2 million people and serves as a hub for business, culture, and tourism in the region.\nHowever, it's worth noting that Dubai is often considered the economic capital of the UAE due to its status as a global financial center and its role in attracting international businesses and investments.\nعاصمة الإمارات العربية المتحدة هي أبهاذ . وهي cũng أكبر إمارة في البلاد ، وتتمتع بنشاط سياسي واقتصادي كبير ."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.8366666666666667
+    },
+    "information_consistency": {
+      "score": 0.9
+    },
+    "structure_similarity": {
+      "score": 0.9319825000563786
+    }
+  }
+}

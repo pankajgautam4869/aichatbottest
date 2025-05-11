@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_000745",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "In 2022, Sheikh Ahmed bin Zayed Al Nahyan, the current President of the UAE, appointed Sheikh Mohammed bin Hussain Al Sharqi as the new Prime Minister. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "في عام 2022 ، عُين الشيخ أحمد بن زايد آل نهاص رئيساً لمجلس الوزراء الجديد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6089743589743589
+    }
+  }
+}

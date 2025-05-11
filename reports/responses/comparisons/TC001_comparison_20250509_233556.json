@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_233556",
+  "english": {
+    "query": "What are the major mountain ranges in Asia?",
+    "response": "These mountain ranges are not only breathtakingly beautiful but also play a vital role in shaping the ecosystems, cultures, and economies of the regions they inhabit. "
+  },
+  "arabic": {
+    "query": "ما هي سلاسل الجبال الرئيسية في آسيا؟",
+    "response": "هذه السلاسل الجبلية هي فقط بعض الأمثلة على جبال آسيا، التي تعتبر من المرموقة والمنعشة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6367521367521367
+    }
+  }
+}

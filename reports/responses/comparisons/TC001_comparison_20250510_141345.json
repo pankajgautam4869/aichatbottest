@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_141345",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "So, while there isn't a traditional Prime Minister in the sense of a single person holding office, Mohammed bin Zayed Al Nahyan plays a significant role in the country's governance and national security. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لقد تم تشكيل مجلس الأمن الوطني السراعي لقيادة البلاد، وعلى رأسهم الرئيس والرئيس التنفيذي للجمهورية العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6161616161616161
+    }
+  }
+}

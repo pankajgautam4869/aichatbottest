@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_235715",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Each emirate has its own government and cabinet, but they are not directly responsible to the federal government or a prime minister. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "تتم الحكم في كل إمارة برئاسة المجلس الحكومي، ولكنها لا تُدير مباشرة إلى رئيس الوزراء. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7272727272727272
+    }
+  }
+}

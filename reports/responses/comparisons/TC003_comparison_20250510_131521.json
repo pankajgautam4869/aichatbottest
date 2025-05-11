@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_131521",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "The capital of the United Arab Emirates (UAE) is Abu Dhabi. It is also the largest emirate in terms of population and economy, and serves as the seat of the country's federal government. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "عاصمة الإمارات العربية المتحدة هي أبوظبي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3383838383838384
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_000954",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "However, the UAE does have a Vice President, who is currently Sheikh Mohammed bin Rashid Al Maktoum, who also holds the position of Prime Minister. He is the ruler of Dubai and has been serving as the Vice President since 2006 and the Prime Minister since 2022. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "بالتأكيد، لا توجد إمارة عربية حكومية تنشأ رئيس الوزراء أو مسؤولًا متعينًا بنفس الدلالة. في UAE، يعتبر الرئيس هو المزود للسلطة التنفيذ ويعمل على توجيه السياسة العامة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6581560283687944
+    }
+  }
+}

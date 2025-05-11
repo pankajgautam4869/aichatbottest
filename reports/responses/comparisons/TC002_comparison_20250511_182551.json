@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250511_182551",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Since then, the UAE has grown into one of the most developed countries in the Middle East, with a strong economy based on oil and gas production, tourism, and trade."
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "منذ ذلك الحين، đã عانى دولة الإمارات العربية المتحدة ازدهارًا رائعًا، وتوسعًا من أجل التنمية الاقتصادية، والاستثمار في الأعمال التجارية، والمساهمة في البنية التحتية، وكذلك تطور وتحسين المعالم السياحية."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7222222222222223
+    }
+  }
+}

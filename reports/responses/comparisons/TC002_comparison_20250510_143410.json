@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_143410",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Since then, the UAE has continued to evolve and grow, becoming one of the most prosperous and modern countries in the Middle East. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "هذا هوimeline السابقة من أهم الأحداث: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.4202898550724638
+    }
+  }
+}

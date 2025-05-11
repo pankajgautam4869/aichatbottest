@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_135346",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Each emirate has its own government and decision-making structure, but they are all ultimately governed by the President of the Federal Supreme Council. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لا يوجد \"رئيس وزراء\" في الإمارات العربية المتحدة. كما ذكرت سابقًا، هي دولة فيدرالية من خلالها تديर إدارتها إلى السلطة التنفيذية التي يقودها الرئاسة المخلفية للفدرال العليا. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.7839506172839507
+    }
+  }
+}

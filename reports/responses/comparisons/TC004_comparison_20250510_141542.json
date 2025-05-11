@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_141542",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "In summary, while the UAE has made economic progress and modernized its infrastructure, its political system is not based on democratic principles, and citizens do not have a say in the government or the laws that govern their country. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "يُعتبر النظام السياسي في الإمارات العربية المتحدة من أكثر regimes تقليدية في منطقة الخليج العربي، حيث تحكم السلطة monarchic بالكامل. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5876068376068376
+    }
+  }
+}

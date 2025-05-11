@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250510_083203",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "So, there isn't a single \"Prime Minister\" of the UAE, but rather a system of government with a president and crown princes who serve as the heads of state for their respective emirates. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 0.0
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.8
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

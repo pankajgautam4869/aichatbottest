@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_232736",
+  "english": {
+    "query": "What are the major mountain ranges in Asia?",
+    "response": "Asia is home to several major mountain ranges, including: "
+  },
+  "arabic": {
+    "query": "ما هي سلاسل الجبال الرئيسية في آسيا؟",
+    "response": "سلاسل الجبال الرئيسية في آسيا تشمل: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.3333333333333333
+    }
+  }
+}

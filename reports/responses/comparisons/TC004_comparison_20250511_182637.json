@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250511_182637",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Overall, while the UAE has made some attempts to introduce reforms, its system of government remains authoritarian and undemocratic."
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "تُعتبر الإمارات العربية المتحدة في السنوات الأخيرة تفتح بعض أبوابها للترفيه والمشاريع الاقتصادية، إلا أن النظام الحكومي لا يزال غير ديمقراطي."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.746031746031746
+    }
+  }
+}

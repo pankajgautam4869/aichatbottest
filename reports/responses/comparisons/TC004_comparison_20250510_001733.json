@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_001733",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "It's worth noting that while the UAE is not a democracy, it has made some steps towards liberalization in recent years, including the introduction of a new penal code that reduces punishments for certain crimes. However, these reforms have been met with skepticism by human rights organizations and critics who argue that they do not go far enough to address the country's significant human rights issues. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "لا تدعم إمارة UAE إصلاحات ديمقراطية ، but has made some efforts towards liberalization في years recent , including introduction new penal code that reduces punishments for certain crimes . ومع ذلك ، these reforms were met with skepticism by human rights organizations and critics who argue they do not go far enough to address country's significant human rights issues . "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.8414141414141415
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_233211",
+  "english": {
+    "query": "What are the major mountain ranges in Asia?",
+    "response": "These are just a few of the many significant mountain ranges found in Asia, but they are some of the most well-known and prominent ones. "
+  },
+  "arabic": {
+    "query": "ما هي سلاسل الجبال الرئيسية في آسيا؟",
+    "response": "هذه بعض السلاسل الجبلية الرائدة في آسيا، لكنها ليست كلها،but هي بعض من piùwell-known والمنشورة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7000000000000001
+    }
+  }
+}

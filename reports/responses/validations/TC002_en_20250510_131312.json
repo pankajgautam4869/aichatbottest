@@ -1,0 +1,24 @@
+{
+  "test_id": "TC002",
+  "language": "en",
+  "timestamp": "20250510_131312",
+  "query": "When was UAE established?",
+  "response": "Since its formation, the UAE has undergone several changes, including the merger of Dubai and Abu Dhabi in 2006 to form a single entity called the Abu Dhabi Investment Authority. However, the six original emirates that formed the UAE remain separate entities with their own governments and leaders. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.4
+    },
+    "hallucination": {
+      "score": 0.0
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.4
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

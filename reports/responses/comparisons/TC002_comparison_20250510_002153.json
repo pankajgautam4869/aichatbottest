@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_002153",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Sheikh Zayed bin Sultan Al Nahyan, who was the ruler of Abu Dhabi at that time, played a key role in establishing the UAE and served as its first president. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "شهد زايد بن سلطان آل ناهيان، الذي كان حاكم أبوظبي في ذلك الوقت، دورًا رئيسيًا في تأسيس الإمارات العربية المتحدة وخدمه sebagai أول president. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7111111111111111
+    }
+  }
+}

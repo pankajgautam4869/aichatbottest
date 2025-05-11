@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_082120",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Since then, the UAE has undergone significant development and transformation, becoming one of the wealthiest and most modern countries in the Middle East. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "منذ ذلك الحين، سجلت الإمارات العربية المتحدة تغييرات كبيرة وتعديلات، ويصبح واحدة من الأوضاع المثيرة فيشر في الشرق الأوسط. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7198067632850241
+    }
+  }
+}

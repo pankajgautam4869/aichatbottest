@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_084105",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "The city of Abu Dhabi is home to many important national institutions, including the Presidential Palace (also known as Al Qasr al Uthmani), the Federal National Council building, and the National Museum. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "دون أنDubai هي المكان الأكثر شعبية في UAE، يُعتبر أبوظبي مدينة عاصمة ومكتبة وطنية للثقافة والفنون. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5833333333333334
+    }
+  }
+}

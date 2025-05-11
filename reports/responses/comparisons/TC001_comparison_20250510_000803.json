@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_000803",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The actual head of the UAE government is the Minister of State for Ruler's Affairs, who assists the President in his duties. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "كنت أستطيع إعطاءข้อมة صحيحة بشأن السلطة الحالية لأن المعلومات حديثة عن الارحام والوزراء هي صعب اكتسابها. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7424242424242425
+    }
+  }
+}

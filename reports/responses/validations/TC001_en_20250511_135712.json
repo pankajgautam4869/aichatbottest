@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_135712",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The United Arab Emirates (UAE) is a federation of seven emirates, each with its own ruler. The head of state for the UAE is the President, currently Sheikh Mohamed bin Zayed Al Nahyan.\nThere is no single \"Prime Minister\" in the UAE, as it has an absolute monarchy system where the ruler holds supreme power and authority. However, the government of the UAE is headed by a Vice President and a Cabinet of Ministers, who are appointed by the President.\nThe current Cabinet of Ministers includes several notable individuals, such as:\nPlease note that the UAE's government structure and officials may change over time, so this information might not be up-to-date.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.6666666666666666
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.39999999999999997
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

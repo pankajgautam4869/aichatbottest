@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_134610",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Each emirate has its own government and laws, but they are all part of the federal UAE government. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "ويتفرق حكام الإمارات في العديد من الأمور مثل المال وطريقة الحكم وعددهم ومدته، فمثلا: "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5925925925925926
+    }
+  }
+}

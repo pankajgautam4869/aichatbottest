@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250511_182659",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "It's worth noting that the President of the United Arab Emirates (UAE) is not the same as the President of the United States. The UAE has a federal system of government, with an Emir serving as the head of state and a Prime Minister or Chancellor serving as the head of government."
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "من المهم أن نشير أن الرئيس للولايات المتحدة الأمريكية لا يكون نفسه للولايات المتحدة العربية المتحدة. UAE has a federal system of government, with an Emir serving as the head of state and a Prime Minister or Chancellor serving as the head of government."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.9487179487179488
+    }
+  }
+}

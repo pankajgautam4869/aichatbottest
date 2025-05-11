@@ -1,0 +1,24 @@
+{
+  "test_id": "TC002",
+  "language": "en",
+  "timestamp": "20250511_182314",
+  "query": "When was UAE established?",
+  "response": "The UAE does not have a Prime Minister. The head of government in the United Arab Emirates (UAE) is the Vice President and Prime Minister of the UAE, who is also the Deputy Ruler of Dubai.\nCurrently, the Vice President and Prime Minister of the UAE is Sheikh Mohammed bin Rashid Al Maktoum, who has held this position since 2006. He is also the Ruler of Dubai and the UAE's de facto leader.\nHowever, the actual head of government in the UAE is the Crown Prince of Abu Dhabi, who is currently Sheikh Mohammed bin Zayed Al Nahyan (also known as MBZ).\nThe United Arab Emirates (UAE) was formed on December 2, 1971. Prior to that, each of the seven emirates that make up the UAE had its own ruler and government.\nIn 1968, the seven emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah) signed a treaty known as the Federal Charter, which aimed to establish a federation of the UAE. However, it wasn't until December 2, 1971, that the UAE was officially established after six of the seven emirates (excluding Abu Dhabi) withdrew their application for independence from the British Protectorate.\nOn January 9, 1971, Abu Dhabi, Dubai, and the other five emirates signed an agreement to form a federation, which came into effect on February 10, 1971. The federal government was established in Abu Dhabi, with Sheikh Zayed bin Sultan Al Nahyan as its first President.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 1.0
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.39999999999999997
+    },
+    "language_specific": {
+      "score": 0.6051687006460875
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_001508",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "So, to answer your question, there isn't a specific \"Prime Minister\" of the UAE, but rather a President who heads the federal government. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الجواب هو: لا يوجد رؤساء وزراء في الإمارات العربية المتحدة، حيث أنها دولة ملكية Absolute، وهي نظام حكومي يقوم بنظام الجمهورية المذكور في المادة 1 من دستور الإمارات العربية المتحدة. يصاحب الحاكم الرئاسة (President)، الذي يشغل पद الرئيس الإماراتي، ويعمل رئيساً لوزارات الدولة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5116279069767442
+    }
+  }
+}

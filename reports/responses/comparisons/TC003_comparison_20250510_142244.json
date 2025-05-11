@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_142244",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "In recent years, Abu Dhabi has been investing heavily in infrastructure development, tourism, and other sectors, with the aim of making the city an even more attractive destination for visitors and businesses alike. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظبي  هي عاصمة الإمارات العربية المتحدة ، وتعدها أهم مدينة في الدولة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5212121212121212
+    }
+  }
+}

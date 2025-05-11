@@ -1,0 +1,24 @@
+{
+  "test_id": "TC004",
+  "language": "en",
+  "timestamp": "20250511_135833",
+  "query": "Does UAE have democracy?",
+  "response": "The Prime Minister of the United Arab Emirates (UAE) is Sheikh Mohammed bin Rashid Al Maktoum. He has been serving as both the Prime Minister and the President of the UAE since 2006.\nThe United Arab Emirates (UAE) was formed on December 2, 1971, when seven emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm al-Quwain, Ras al-Khaimah, and Fujairah) gained independence from the United Kingdom.\nThe capital of the United Arab Emirates (UAE) is Abu Dhabi. However, Dubai is often mistakenly referred to as the capital due to its economic importance and being the largest city in the country. But officially, Abu Dhabi has been the federal capital since 1971.\nThe United Arab Emirates (UAE) is a monarchical absolute monarchy, with an hereditary system of government. The country is ruled by a seven-member Supreme Council, which includes the President and the Prime Minister.\nWhile the UAE has a relatively high standard of living, individual freedoms, and social services compared to many other countries in the Middle East, it does not have a democratic system in the classical sense. Citizens do not have the right to vote or participate directly in the selection of their leaders.\nThe country's political structure is based on a system of Islamic law (Sharia) and the traditions of its founder, Sheikh Zayed bin Sultan Al Nahyan, who established the UAE as a federation of seven emirates in 1971. The government exercises significant control over all aspects of life, including media, speech, and assembly.\nHowever, the UAE has made some steps towards greater democracy in recent years, such as:\nDespite these efforts, the UAE's authoritarian system remains in place, with limited checks on the power of the ruling family and the government.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.6666666666666666
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.6
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

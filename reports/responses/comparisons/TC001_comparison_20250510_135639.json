@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_135639",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "So, while there is no prime minister in the UAE, Sheikh Mohamed bin Zayed Al Nahyan serves as the head of state and has significant influence over the country's policies and decisions. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "أما إذا كنت تبحث عن شخصية ساري law يعتمد على ديمقراطية الفرد أو الإقليم يبنت نهاية أسلوب الحكم في هذه الدولة، فلا يوجد رئيس وزراء في UAE. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7256944444444443
+    }
+  }
+}

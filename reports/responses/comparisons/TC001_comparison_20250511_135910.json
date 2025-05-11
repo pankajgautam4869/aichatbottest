@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_135910",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The United Arab Emirates (UAE) is a federation of seven emirates, and it does not have a single prime minister. Instead, each emirate has its own ruler, known as an Emir or Sheikh.\nThe leaders of the seven emirates are:\nSo, there is no single prime minister of the UAE, as it is a federal state with a monarchic system of government."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "The United Arab Emirates (UAE) is a federation of seven emirates, and it does not have a single prime minister. Instead, each emirate has its own ruler, known as an Emir or Sheikh.\nThe leaders of the seven emirates are:\nSo, there is no single prime minister of the UAE, as it is a federal state with a monarchic system of government.\nالإمارات العربية المتحدة هي دولة فيدرالية، وهذاหมาย إلى أنها لا tiene وزير أو رؤساء وزراء علاجت.\nلكن في بعض المناطق الإدارية داخل الإمارات العربية المتحدة، مثل الإمارة والولاية والإقليم، thì توجد مناصب ديمقراطية، ولكنهم لم يتعرف على هذا الاسم في البداية. على سبيل المثال:\nلكن في بعض المناطق الإدارية داخل الإمارات العربية المتحدة، مثل municipalities أو عتبات القرى الموجودة داخل الإمارات، توجد مناصب ديمقراطية مثل \"رئيس البلدية\" أو \"مدير البلدية\"."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5656565656565656
+    }
+  }
+}

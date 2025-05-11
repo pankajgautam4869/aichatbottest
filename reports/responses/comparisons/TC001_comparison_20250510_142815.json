@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_142815",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "Sheikh Mohammed bin Zayed Al Nahyan is the current head of state in the UAE and holds many high-ranking positions, including President of the UAE, Supreme Commander of the UAE Armed Forces, and Chairman of the Executive Council. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "شيك محمد بن زيد آل نهاين هو المسؤول الحالي للجنة في الإمارات العربية المتحدة، والذي يهيأ له العديد من الألقاب، بما في ذلك الرئيس السامي للجمهورية الإمارات العربية المتحدة، والرئيس العسكري الأعلى، وchairman of the Executive Council. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7412280701754387
+    }
+  }
+}

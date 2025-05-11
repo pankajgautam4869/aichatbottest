@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250511_140955",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The United Arab Emirates (UAE) has a unique system of government, where there are seven emirates that are ruled by an absolute monarch. The head of state for each emirate is typically referred to as the \"Ruler,\" rather than a \"Prime Minister.\"\nHowever, the UAE does have a Federal Supreme Council, which is composed of the Rulers of the seven emirates, along with the President of the Federation. This council is headed by the President of the UAE, who serves as both the head of state and government.\nCurrently, Sheikh Mohammed bin Zayed Al Nahyan (Ruler of Abu Dhabi) is the President of the UAE, and he is also widely considered to be the de facto leader of the country.\nSo, while there isn't a traditional Prime Minister in the UAE, Sheikh Mohammed bin Zayed Al Nahyan plays a significant role as the head of government and state.\nحسناً! الإمارات العربية المتحدة memiliki نظام حكم منفرد، حيث يرأس كل إمارة بمعين رuler ، وهو يشبه الملك rather than \"رئيس الوزراء\" (Prime Minister) التقليدية.\nولكن، الأمانة الفدرالية للاتحاد، وهي جمعية من قادة الإمارات السبع، تشكل الحكومة الفيدرالية. يعتبر الرئيس الإماري هو رأس الإمارة ويشبه الشخصية القادرة على قيادة البلاد.\nالرئيس الحالي لاتحاد الإمارات العربية المتحدة هو الشيخ محمد بن زايد آل ناهيان (รuler of Abu Dhabi) ,who يعمل كقائد لوزراء الإمارات وأحيانا يتم تعرفه بالشخصية القادرة على القيادة.\nلا توجد شخصية \"رئيس الوزراء\" في الإمارات العربية المتحدة.\nThe United Arab Emirates (UAE) was formed on December 2, 1971, when seven sheikhdoms declared independence from the United Kingdom and joined together to form a federation.\nHere's a brief timeline:\nSince then, the UAE has undergone several significant developments, including the unification of the emirates under a single government in 1974, and the country's economic growth and modernization in recent decades."
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "The United Arab Emirates (UAE) has a unique system of government, where there are seven emirates that are ruled by an absolute monarch. The head of state for each emirate is typically referred to as the \"Ruler,\" rather than a \"Prime Minister.\"\nHowever, the UAE does have a Federal Supreme Council, which is composed of the Rulers of the seven emirates, along with the President of the Federation. This council is headed by the President of the UAE, who serves as both the head of state and government.\nCurrently, Sheikh Mohammed bin Zayed Al Nahyan (Ruler of Abu Dhabi) is the President of the UAE, and he is also widely considered to be the de facto leader of the country.\nSo, while there isn't a traditional Prime Minister in the UAE, Sheikh Mohammed bin Zayed Al Nahyan plays a significant role as the head of government and state.\nحسناً! الإمارات العربية المتحدة memiliki نظام حكم منفرد، حيث يرأس كل إمارة بمعين رuler ، وهو يشبه الملك rather than \"رئيس الوزراء\" (Prime Minister) التقليدية.\nولكن، الأمانة الفدرالية للاتحاد، وهي جمعية من قادة الإمارات السبع، تشكل الحكومة الفيدرالية. يعتبر الرئيس الإماري هو رأس الإمارة ويشبه الشخصية القادرة على قيادة البلاد.\nالرئيس الحالي لاتحاد الإمارات العربية المتحدة هو الشيخ محمد بن زايد آل ناهيان (รuler of Abu Dhabi) ,who يعمل كقائد لوزراء الإمارات وأحيانا يتم تعرفه بالشخصية القادرة على القيادة.\nلا توجد شخصية \"رئيس الوزراء\" في الإمارات العربية المتحدة.\nThe United Arab Emirates (UAE) was formed on December 2, 1971, when seven sheikhdoms declared independence from the United Kingdom and joined together to form a federation.\nHere's a brief timeline:\nSince then, the UAE has undergone several significant developments, including the unification of the emirates under a single government in 1974, and the country's economic growth and modernization in recent decades.\nتأسست الإمارات العربية المتحدة في 2 ديسمبر 1971، عندما Declared seven إمارة declared their independence من المملكة المتحدة.\nأما بخصوص التاريخ الماضي للوضع، فقد كان هناك عدة مراحل مهمة:"
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6933333333333334
+    },
+    "information_consistency": {
+      "score": 0.8666666666666667
+    },
+    "structure_similarity": {
+      "score": 0.9152411956200059
+    }
+  }
+}

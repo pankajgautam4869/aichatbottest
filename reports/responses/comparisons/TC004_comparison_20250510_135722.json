@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_135722",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "The UAE also has some restrictions on freedom of speech, assembly, and expression, which are limited by the government's control over the media and civil society organizations. However, the country has been working to improve its human rights record in recent years, and there have been some efforts to increase transparency and accountability in governance. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "although الإمارات العربية المتحدة đã أضحت أكثر دقة في years في إحالتهم،Still لا تتمتع بالديمقراطية الكاملة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.3112554112554113
+    }
+  }
+}

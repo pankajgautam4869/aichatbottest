@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250511_181843",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The UAE was established through the merger of these seven emirates, which led to the creation of a single federal state with a president as its head. Since then, the UAE has been a sovereign state recognized by the international community."
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "وأُعلن عن تأسيس الإمارات العربية المتحدة في 2 ديسمبر 1971، بعد انضمام الإمارة السبع إلى دولة فيدرالية تضم كل من الإمارة وجمهوريات إماراتية مختلفة."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.4451219512195122
+    }
+  }
+}

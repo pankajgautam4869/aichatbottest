@@ -1,0 +1,24 @@
+{
+  "test_id": "TC002",
+  "language": "en",
+  "timestamp": "20250510_080802",
+  "query": "When was UAE established?",
+  "response": "So, while the process of forming the UAE began in 1968-69, December 2, 1971, is generally considered the official date when the UAE gained independence from British colonial rule. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.3
+    },
+    "hallucination": {
+      "score": 0.6666666666666666
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.6
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

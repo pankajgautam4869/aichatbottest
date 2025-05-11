@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_001209",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The modern state of the UAE as we know it today was formed after a long process of negotiations and unification efforts led by Sheikh Zayed bin Sultan Al Nahyan, who served as the President of the UAE from 1971 until his death in 2004. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات العربية المتحدة في 2 ديسمبر/كانون الثاني 1971، عندما تم التحرك من عهد السلطة البريطانية على ألواحها السبع الموجودة في المنطقة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.662962962962963
+    }
+  }
+}

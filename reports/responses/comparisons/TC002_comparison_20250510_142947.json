@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_142947",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "So, while December 2, 1971, is often cited as the date of UAE formation, it's more accurate to say that the country was officially established on February 18, 1972. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات العربية المتحدة رسمياً في 18 فبراير 1972، من خلال التوقيع على ميثاق federation من قبل السبع امير. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.60727969348659
+    }
+  }
+}

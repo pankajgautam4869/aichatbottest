@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_142101",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "I hope this helps clarify things! "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "أما إذا كنت تريد معرفة عن رئيس الدولة أو الرئيس الأعلى لإحدى الإمارات، فستجد أن هناك العديد من الأميرات والأميرs التي تلعب دورا كبيرا في الحكم. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7435897435897436
+    }
+  }
+}

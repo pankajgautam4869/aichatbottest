@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_182304",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The UAE does not have a Prime Minister. The head of government in the United Arab Emirates (UAE) is the Vice President and Prime Minister of the UAE, who is also the Deputy Ruler of Dubai.\nCurrently, the Vice President and Prime Minister of the UAE is Sheikh Mohammed bin Rashid Al Maktoum, who has held this position since 2006. He is also the Ruler of Dubai and the UAE's de facto leader.\nHowever, the actual head of government in the UAE is the Crown Prince of Abu Dhabi, who is currently Sheikh Mohammed bin Zayed Al Nahyan (also known as MBZ).",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 1.0
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.6
+    },
+    "language_specific": {
+      "score": 0.6036496350364964
+    }
+  }
+}

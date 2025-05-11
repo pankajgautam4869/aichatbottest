@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_184128",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": " However it's worth noting that there is no prime minister position in the UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لا يوجد رجل أو امرأة رئيسا وزرائيا في الإمارات العربية المتحدة. كل إمارة في دولة الإمارات العربية المتحدة تُدار من قبل حاكمها الحالي، وهو ملك في نظام monarchy. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5
+    }
+  }
+}

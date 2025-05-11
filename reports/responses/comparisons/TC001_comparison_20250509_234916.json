@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250509_234916",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The current Prime Minister of the United Arab Emirates (UAE) is Abdullah bin Zayed Al Nahyan. He has been holding this position since March 2004, making him one of the longest-serving prime ministers in the country's history. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الرئيس الحالي للوزراء في الإمارات العربية المتحدة هو الشيخ محمد بن راشد آل مكتوم. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.4039039039039039
+    }
+  }
+}

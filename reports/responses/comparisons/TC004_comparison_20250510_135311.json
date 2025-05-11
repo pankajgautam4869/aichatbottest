@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_135311",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "In summary, while the UAE has some democratic features, it is not considered to be a fully democratic country due to its absolute monarchy system and limitations on individual rights and freedoms. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "على الرغم من التطورات التي تلقاها الإمارات العربية المتحدة، لا تتمتع بل أزمة ديمقراطية في الواقع. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.611111111111111
+    }
+  }
+}

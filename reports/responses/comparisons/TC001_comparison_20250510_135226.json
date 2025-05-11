@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_135226",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "These rulers are responsible for the governance of their respective emirates, but there is no single prime minister for the entire UAE. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "لكن لا توجد شخصية مسؤولة عن الحكومة الشاملة في الإمارات العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6818181818181818
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_082251",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "In summary, while the UAE has made some progress in terms of economic development and social welfare, its political system is still characterized by authoritarianism and undemocratic practices. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "لا يوجد في الإمارات system of government electorally-based، ولا توجد ديمocracia reala. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5873015873015873
+    }
+  }
+}

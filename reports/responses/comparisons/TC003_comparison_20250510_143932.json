@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_143932",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "In 2021, it was announced that Abu Dhabi would be hosting the 2020 G7 Summit, which was postponed due to the COVID-19 pandemic. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "كانت دبى تتكلم في المجال السياسي، ولكن أُعلنت في عام 1996 أن أبوظبي ستكون العاصمة الرسمية للبلاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6908212560386473
+    }
+  }
+}

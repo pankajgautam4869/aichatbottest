@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_002221",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "It's worth noting that the UAE has made some progress in recent years to improve its human rights record and increase transparency, but it still ranks relatively low in terms of democracy and human rights in international rankings such as those produced by Freedom House. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "وظلت هذه التدخلاتStill Limited Still لا تقدم نفسها كدستور ديمقراطي أو نظام سياسي، ولكنها تعتبر шагًا نحو توفير بعض الحقوق والمساءلة للشعب.\nوعلى الرغم من ذلك ، يعتبر الإمارات العربية المتحدة لا يتطلب في معظم المناقشات ردها كدولة دموكرية، لأنها لا تقدم نفسها كدولة ديمقراطية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.8333333333333334
+    }
+  }
+}

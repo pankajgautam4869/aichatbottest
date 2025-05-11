@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_131507",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "However, it's worth noting that the UAE did not have a unified federal government until 1976, when Abu Dhabi took over as the sole seat of power after Sheikh Zayed bin Sultan Al Nahyan became President in 1971 and then passed away on January 4th, 2004 "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "كانت الإمارات قبل ذلك مجموعة من سبع دولة بريطانية على الساحل الشرقي للشبه الجزيرة العربية. انتهى الصدع بين الإمارات في فبراير 1971، عندما انضمت السبع إمارات إلى federation معgovernment واحد وأخيرًا president . "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.6280193236714976
+    }
+  }
+}

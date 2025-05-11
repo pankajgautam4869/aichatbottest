@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250511_182138",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "Prior to Trump's presidency, Barack Obama served two terms as President from 2009 to 2017."
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "وكان الرئيس Americans قبل ذلك، Barack Obama who served two terms from 2009 to 2017"
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.7333333333333334
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6666666666666666
+    }
+  }
+}

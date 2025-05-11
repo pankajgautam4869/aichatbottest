@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_142230",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The UAE's formation was announced on December 2, 1971, and it was recognized by the world community shortly thereafter. The new country was established with the aim of promoting unity and cooperation among its member emirates, as well as to provide a more stable and prosperous future for its citizens. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات من فترة السويدية البريطانية التي شغلت هذه الأراضي، بعد انتهاء الحكم البريطاني في 31 مارس 1971 ، وتم إنشاء دولة متحدة في 2 ديسمبر من عام 1971. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.4266666666666667
+    }
+  }
+}

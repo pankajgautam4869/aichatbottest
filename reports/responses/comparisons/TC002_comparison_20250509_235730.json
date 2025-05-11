@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250509_235730",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "After years of negotiations, the UAE was finally formed on December 2, 1971, when Sheikh Zayed bin Sultan Al Nahyan became the first President of the United Arab Emirates, and the country gained independence from British protection. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "but بعد years of negotiations، كانت الإمارات العربية المتحدة تمكّن من تشكيلها في 2 ديسمبر 1971 عندما أصبح الشيخ زيد بن سلمان آل نهيان رئيساً للدولة العربية المتحدة وإنقاذها عن الحماية البريطانية. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6882882882882884
+    }
+  }
+}

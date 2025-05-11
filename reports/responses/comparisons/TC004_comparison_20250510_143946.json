@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_143946",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "Overall, while the UAE does not fit traditional notions of democracy, it has evolved towards a more participatory and inclusive system, albeit one that remains subject to significant executive control. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "تُشكل الحكومة في الإمارات العربية المتحدة نظامًا ملكيًا مع عناصر تعاونية، حيث يرأسها الأمير محمد بن راشد آل مكتوم ويكون على عهده الشيخ خليفة بن زايد آل نهيان présidentاً. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7388888888888889
+    }
+  }
+}

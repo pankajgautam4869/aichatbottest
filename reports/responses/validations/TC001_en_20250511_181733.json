@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_181733",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The United Arab Emirates (UAE) does not have a prime minister. Instead, it has a president and several ministers who are responsible for different areas of governance.\nAs of my knowledge cutoff in 2023, the President of the UAE is Sheikh Mohammed bin Zayed Al Nahyan. He also serves as the Deputy Supreme Commander of the Emirates Armed Forces and has other roles within the government.\nThe UAE has a federal system of government, with three main powers: the president (or supreme council), the federal cabinet (headed by the minister responsible for foreign affairs), and the federal national committee (a consultative body composed of 10 federal ministers).\nEach emirate in the UAE also has its own ruler or sheikh, who is responsible for governing that particular emirate. The seven emirates are Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah.\nSo, while there isn't a single \"Prime Minister\" of the UAE, Sheikh Mohammed bin Zayed Al Nahyan plays a significant role as president and is often seen as the de facto leader of the country.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.6666666666666666
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.39999999999999997
+    },
+    "language_specific": {
+      "score": 0.6043071161048689
+    }
+  }
+}

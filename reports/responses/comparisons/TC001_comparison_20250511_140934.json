@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250511_140934",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "The United Arab Emirates (UAE) has a unique system of government, where there are seven emirates that are ruled by an absolute monarch. The head of state for each emirate is typically referred to as the \"Ruler,\" rather than a \"Prime Minister.\"\nHowever, the UAE does have a Federal Supreme Council, which is composed of the Rulers of the seven emirates, along with the President of the Federation. This council is headed by the President of the UAE, who serves as both the head of state and government.\nCurrently, Sheikh Mohammed bin Zayed Al Nahyan (Ruler of Abu Dhabi) is the President of the UAE, and he is also widely considered to be the de facto leader of the country.\nSo, while there isn't a traditional Prime Minister in the UAE, Sheikh Mohammed bin Zayed Al Nahyan plays a significant role as the head of government and state."
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "The United Arab Emirates (UAE) has a unique system of government, where there are seven emirates that are ruled by an absolute monarch. The head of state for each emirate is typically referred to as the \"Ruler,\" rather than a \"Prime Minister.\"\nHowever, the UAE does have a Federal Supreme Council, which is composed of the Rulers of the seven emirates, along with the President of the Federation. This council is headed by the President of the UAE, who serves as both the head of state and government.\nCurrently, Sheikh Mohammed bin Zayed Al Nahyan (Ruler of Abu Dhabi) is the President of the UAE, and he is also widely considered to be the de facto leader of the country.\nSo, while there isn't a traditional Prime Minister in the UAE, Sheikh Mohammed bin Zayed Al Nahyan plays a significant role as the head of government and state.\nحسناً! الإمارات العربية المتحدة memiliki نظام حكم منفرد، حيث يرأس كل إمارة بمعين رuler ، وهو يشبه الملك rather than \"رئيس الوزراء\" (Prime Minister) التقليدية.\nولكن، الأمانة الفدرالية للاتحاد، وهي جمعية من قادة الإمارات السبع، تشكل الحكومة الفيدرالية. يعتبر الرئيس الإماري هو رأس الإمارة ويشبه الشخصية القادرة على قيادة البلاد.\nالرئيس الحالي لاتحاد الإمارات العربية المتحدة هو الشيخ محمد بن زايد آل ناهيان (รuler of Abu Dhabi) ,who يعمل كقائد لوزراء الإمارات وأحيانا يتم تعرفه بالشخصية القادرة على القيادة.\nلا توجد شخصية \"رئيس الوزراء\" في الإمارات العربية المتحدة."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.4636363636363636
+    },
+    "information_consistency": {
+      "score": 0.5454545454545454
+    },
+    "structure_similarity": {
+      "score": 0.6227417878117952
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "test_id": "TC001",
+  "language": "en",
+  "timestamp": "20250511_135116",
+  "query": "Who is the Prime Minister of UAE?",
+  "response": "The United Arab Emirates (UAE) is a federation of seven emirates, each with its own ruler. The head of government for the UAE is the President, who serves as both the head of state and the head of government.\nAs of my knowledge cutoff in 2023, the President of the United Arab Emirates is Sheikh Mohamed bin Zayed Al Nahyan (also known as MBZ). However, I couldn't find any information about a Prime Minister specifically for the UAE. The UAE's system of government is a federation with a presidential form of government, where the President serves as both the head of state and the head of government.\nIt's worth noting that some of the emirates in the UAE have their own local governments and rulers, but these are separate from the federal government led by the President.",
+  "validation_results": {
+    "clarity": {
+      "score": 0.7
+    },
+    "hallucination": {
+      "score": 0.3333333333333333
+    },
+    "formatting": {
+      "score": 1.0
+    },
+    "completeness": {
+      "score": 0.39999999999999997
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

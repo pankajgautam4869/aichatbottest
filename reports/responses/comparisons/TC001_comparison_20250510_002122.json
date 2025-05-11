@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_002122",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "However, the UAE has a Vice President who assists the President in his duties, and the country is currently governed by a cabinet led by the Deputy Prime Minister, who is also known as the Minister of State for Cabinet Affairs. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "ولكن لا يوجد رئيس وزراء في الإمارات العربية المتحدة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.4898373983739837
+    }
+  }
+}

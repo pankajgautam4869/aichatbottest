@@ -1,0 +1,24 @@
+{
+  "test_id": "TC002",
+  "language": "en",
+  "timestamp": "20250510_085023",
+  "query": "When was UAE established?",
+  "response": "Prior to that, the UAE had been a British protectorate since 1892, and it was known as the Trucial States. The seven emirates came together to form the United Arab Emirates in a bid to establish a unified government and economy, which has led to significant economic growth and development in the region. ",
+  "validation_results": {
+    "clarity": {
+      "score": 0.4
+    },
+    "hallucination": {
+      "score": 0.0
+    },
+    "formatting": {
+      "score": 0.5
+    },
+    "completeness": {
+      "score": 0.4
+    },
+    "language_specific": {
+      "score": 1.0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_144549",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "However, it's worth noting that Dubai is often referred to as the \"commercial capital\" or \"financial hub\" of the UAE, due to its status as a major business center and tourist destination. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "وتسكن المدينة العديد من المؤسسات الحكومية، بما في ذلك القلعة الرئاسية، التي تسكن فيها البيت الرسمي للرئيس الإماراتي. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6319444444444444
+    }
+  }
+}

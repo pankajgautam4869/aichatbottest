@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_134505",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "In 1972, the UAE officially became an independent country after gaining independence from British colonial rule. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "في عام 1972 ، أصبحت الإمارات العربية المتحدة دولة مستقلة ومتحottle عن بريطانيا. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7708333333333334
+    }
+  }
+}

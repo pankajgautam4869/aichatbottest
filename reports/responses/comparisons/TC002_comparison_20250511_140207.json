@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250511_140207",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "The UAE has a presidential system, not a parliamentary system with a prime minister. The head of state and government in the United Arab Emirates (UAE) is the President, who is currently Sheikh Mohammed bin Zayed Al Nahyan.\nHowever, the UAE has a federal cabinet that is headed by a Prime Minister, but he is appointed by the President and is not the head of government. The current Prime Minister of Abu Dhabi, which is the capital and largest emirate of the UAE, is Sheikh Mohammad bin Zayed Al Nahyan (also known as Crown Prince of Abu Dhabi).\nIt's worth noting that the UAE has a unique system of governance, with a strong emphasis on Islamic law and a hierarchical structure. The President and other senior leaders play a significant role in shaping the country's policies and decisions.\nI hope this clarifies things! Let me know if you have any further questions.\nبالتأكيد، الإمارات العربية المتحدة تعتبر دولة حكومية استثمارية قادرة على توفير فرص فنية وإجتماعية للشباب الأجانب.\nThe United Arab Emirates (UAE) was established on December 2, 1971, when seven emirates - Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah - gained independence from the United Kingdom. This date is celebrated as \"National Day\" in the UAE.\nHowever, the history of the UAE dates back to the 18th century, when the seven emirates were formed through a series of treaties and agreements between the British and local leaders. The UAE has since undergone significant changes and development, with a focus on economic diversification, tourism, and infrastructure growth.\nHere's a brief timeline:"
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "The UAE has a presidential system, not a parliamentary system with a prime minister. The head of state and government in the United Arab Emirates (UAE) is the President, who is currently Sheikh Mohammed bin Zayed Al Nahyan.\nHowever, the UAE has a federal cabinet that is headed by a Prime Minister, but he is appointed by the President and is not the head of government. The current Prime Minister of Abu Dhabi, which is the capital and largest emirate of the UAE, is Sheikh Mohammad bin Zayed Al Nahyan (also known as Crown Prince of Abu Dhabi).\nIt's worth noting that the UAE has a unique system of governance, with a strong emphasis on Islamic law and a hierarchical structure. The President and other senior leaders play a significant role in shaping the country's policies and decisions.\nI hope this clarifies things! Let me know if you have any further questions.\nبالتأكيد، الإمارات العربية المتحدة تعتبر دولة حكومية استثمارية قادرة على توفير فرص فنية وإجتماعية للشباب الأجانب.\nThe United Arab Emirates (UAE) was established on December 2, 1971, when seven emirates - Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah - gained independence from the United Kingdom. This date is celebrated as \"National Day\" in the UAE.\nHowever, the history of the UAE dates back to the 18th century, when the seven emirates were formed through a series of treaties and agreements between the British and local leaders. The UAE has since undergone significant changes and development, with a focus on economic diversification, tourism, and infrastructure growth.\nHere's a brief timeline:\nتأسست الإمارات العربية المتحدة في 2 ديسمبر 1971، عندما أنشأت الساتة السبع على إثر استقلالها من المملكة المتحدة.\nلم تكن هناك \"تأسيس\" للبلاد بشكل مباشر، поскольку كانت الساتة السبع لها تاريخ قديم ومتسلسلة، dating back to the 18th century. ومع ذلك، تم الإعلان عن الاستقلال في 2 ديسمبر 1971، وهو اليوم الذي يتم إعطائه كيوم رياضي national day في الإمارات العربية المتحدة.\nتأثرت الإمارات العربية المتحدة في التاريخ من خلال عدة تحولات وتطورات، بما في ذلك العلاقة الحكومية مع المملكة المتحدة، التي كان للبلد تأثير كبير على السياسة والاقتصاد."
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.54375
+    },
+    "information_consistency": {
+      "score": 0.8125
+    },
+    "structure_similarity": {
+      "score": 0.8181306306306307
+    }
+  }
+}

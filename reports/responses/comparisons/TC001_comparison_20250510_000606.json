@@ -1,0 +1,23 @@
+{
+  "test_id": "TC001",
+  "timestamp": "20250510_000606",
+  "english": {
+    "query": "Who is the Prime Minister of UAE?",
+    "response": "As of my knowledge cutoff in 2023, the President of the United Arab Emirates is Sheikh Mohamed bin Zayed Al Nahyan. "
+  },
+  "arabic": {
+    "query": "من هو رئيس وزراء الإمارات العربية المتحدة؟",
+    "response": "الإمارة العربية المتحدة لا تملك رايسا وزراء، ولكنها تحتوي على منصب \"رئيس الوزراء\" الذي يُسمى \"النائب لرئاسة دولة الإمارات\" أو \"الرئيس للوزراء\". وأسمه في الوقت الحالي هو محمد بن راشد آل مكتوم "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.44999999999999996
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.5520833333333334
+    }
+  }
+}

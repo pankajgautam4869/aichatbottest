@@ -1,0 +1,23 @@
+{
+  "test_id": "TC005",
+  "timestamp": "20250510_144503",
+  "english": {
+    "query": "Who was the president of America in 2018?",
+    "response": "So, in 2018, the head of state of the UAE was Sheikh Khalifa bin Zayed Al Nahyan, but he is not directly involved in the day-to-day governance of the country. The actual ruler of Abu Dhabi and the UAE is his son, Sheikh Mohammed bin Zayed Al Nahyan, also known as Crown Prince of Abu Dhabi and Deputy Supreme Commander of the UAE Armed Forces. "
+  },
+  "arabic": {
+    "query": "من كان رئيس أمريكا في عام 2018؟",
+    "response": "Donald Trump كان رئيساً للولايات المتحدة الأمريكية في عام 2018. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.5833333333333333
+    },
+    "information_consistency": {
+      "score": 0.5
+    },
+    "structure_similarity": {
+      "score": 0.26556776556776557
+    }
+  }
+}

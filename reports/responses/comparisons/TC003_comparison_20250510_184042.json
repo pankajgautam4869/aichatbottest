@@ -1,0 +1,23 @@
+{
+  "test_id": "TC003",
+  "timestamp": "20250510_184042",
+  "english": {
+    "query": "What is the capital of UAE?",
+    "response": "However, it's worth noting that Dubai is often referred to as the \"business capital\" or the \"financial capital\" of the UAE due to its status as one of the world's most prominent business centers and a major hub for finance, trade, and tourism. "
+  },
+  "arabic": {
+    "query": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "response": "أبوظبي يعتبر من أوثق مدن العالم في المالية والاقتصاد والزراعة والسياحة وتقدم البنية التحتية على نطاق واسع. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.5484496124031008
+    }
+  }
+}

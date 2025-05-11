@@ -1,0 +1,23 @@
+{
+  "test_id": "TC004",
+  "timestamp": "20250510_084005",
+  "english": {
+    "query": "Does UAE have democracy?",
+    "response": "In summary, while the UAE has some democratic institutions, such as the FNC and local elections, its overall system is characterized by limited freedoms and a strong authoritarian grip on power. "
+  },
+  "arabic": {
+    "query": "هل الإمارات العربية المتحدة ديمقراطية؟",
+    "response": "أما فيما يتعلق بالديمقراطية، فإنه يُشكل السلطة monarchية absolute حداً للاستقbal، حيث تُنفذ القواعد الديمقراطية بسرعة وتخضع للرقابة. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6102150537634409
+    }
+  }
+}

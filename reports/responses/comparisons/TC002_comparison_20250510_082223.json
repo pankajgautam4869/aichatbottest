@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_082223",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "So, while December 2, 1971, is the date often cited as the formation of the UAE, it's worth noting that the process was gradual and involved negotiations between the British government, the emirs, and other regional powers. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "وكان 2 ديسمبر 1971 هو التاريخ المعتمد على عادة كتأسيس الإمارات العربية المتحدة، ولكن كان هذا过程ًا تدريجيًا ومتسلسل في negotiating بين السلطات البريطانية، والاميرات، والممارسة التابعة للقوى المحلية الأخرى. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.6422136422136422
+    }
+  }
+}

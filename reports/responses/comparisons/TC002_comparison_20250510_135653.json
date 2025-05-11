@@ -1,0 +1,23 @@
+{
+  "test_id": "TC002",
+  "timestamp": "20250510_135653",
+  "english": {
+    "query": "When was UAE established?",
+    "response": "Since then, the UAE has undergone significant development and growth, becoming one of the most modern and prosperous countries in the Middle East. "
+  },
+  "arabic": {
+    "query": "متى تأسست الإمارات العربية المتحدة؟",
+    "response": "تأسست الإمارات العربية المتحدة رسمياً في 2 ديسمبر 1971، عندما أصبح الشيخ زيد بن سلطان آل نهيان رئيساً و حاكماً لمنطقة أبوظبى، وهي أول إمارة تُعتبر قائماً في الاتحاد. "
+  },
+  "comparison_results": {
+    "semantic_similarity": {
+      "score": 0.6
+    },
+    "information_consistency": {
+      "score": 1.0
+    },
+    "structure_similarity": {
+      "score": 0.7088122605363983
+    }
+  }
+}
