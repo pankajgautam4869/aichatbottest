@@ -68,13 +68,13 @@ pytest
 mkdir -p reports
 
 # Run security tests with HTML report
-pytest tests/test_security.py -v --html=reports/security_test_report.html --self-contained-html
+python3 -m pytest tests/test_security.py -v --html=reports/security_test_report.html --self-contained-html
 ```
 
 ### Running Chat Widget Tests with HTML Report
 ```bash
 # Run chat widget tests with HTML report
-pytest tests/test_chat_widget.py -v --html=reports/chat_widget_test_report.html --self-contained-html
+python3 -m pytest tests/test_chat_widget.py -v --html=reports/chat_widget_test_report.html 
 ```
 
 ### Running Tests with Different Viewports
